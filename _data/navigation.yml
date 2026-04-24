@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Learn"
+    url: /learn/
+  - title: "Media"
+    url: /media/
+  - title: "About"
+    url: /about/
