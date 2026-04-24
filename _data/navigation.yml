@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Learn"
-    url: /learn/
+    url: /learn/part1/
   - title: "Media"
     url: /media/
   - title: "About"
@@ -10,28 +10,31 @@ main:
 
 learn:
   - title: "Part 1 — Immunology Foundations"
+    url: /learn/part1/
     children:
       - title: "What is the immune system?"
-        url: /learn/#what-is-the-immune-system
-      - title: "How does the immune system recognize threats?"
-        url: /learn/#how-does-the-immune-system-recognize-and-attack-threats
+        url: /learn/part1/#what-is-the-immune-system
+      - title: "How the immune system attacks threats"
+        url: /learn/part1/#how-does-the-immune-system-recognize-and-attack-threats
       - title: "Tolerance"
-        url: /learn/#tolerance--how-does-your-body-learn-not-to-attack-itself
+        url: /learn/part1/#tolerance--how-does-your-body-learn-not-to-attack-itself
   - title: "Part 2 — The Immunological Puzzle"
+    url: /learn/part2/
     children:
       - title: "Why pregnancy is paradoxical"
-        url: /learn/#why-pregnancy-is-immunologically-paradoxical
+        url: /learn/part2/#why-pregnancy-is-immunologically-paradoxical
       - title: "The uterus is an immune organ"
-        url: /learn/#the-uterus-is-an-immune-organ
+        url: /learn/part2/#the-uterus-is-an-immune-organ
       - title: "How the placenta negotiates"
-        url: /learn/#how-the-placenta-actively-negotiates-with-the-immune-system
+        url: /learn/part2/#how-the-placenta-actively-negotiates-with-the-immune-system
       - title: "Immune shifts across trimesters"
-        url: /learn/#the-immune-system-shifts-across-trimesters
+        url: /learn/part2/#the-immune-system-shifts-across-trimesters
   - title: "Part 3 — Open Questions"
+    url: /learn/part3/
     children:
       - title: "When it goes wrong"
-        url: /learn/#when-it-goes-wrong
+        url: /learn/part3/#when-it-goes-wrong
       - title: "Cool research frontiers"
-        url: /learn/#cool-research-frontiers
+        url: /learn/part3/#cool-research-frontiers
       - title: "Why we need you"
-        url: /learn/#why-we-need-you--open-questions-and-how-to-get-involved
+        url: /learn/part3/#why-we-need-you--open-questions-and-how-to-get-involved
