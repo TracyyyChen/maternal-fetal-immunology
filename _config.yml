@@ -1,11 +1,12 @@
 title: "Maternal-Fetal Immunology"
 description: "A student-built explainer on the immune paradox of pregnancy."
-url: "https://YOUR-USERNAME.github.io"
-baseurl: "/YOUR-REPO-NAME"
+url: "https://TracyyyChen.github.io"                      
+baseurl: "/maternal-fetal-immunology" 
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 minimal_mistakes_skin: "default"
