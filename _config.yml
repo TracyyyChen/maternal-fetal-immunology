@@ -19,4 +19,8 @@ defaults:
       layout: single
       author_profile: false
 
+author:
+  name: "Maternal-Fetal Immunology"
+  uri: "https://github.com/TracyyyChen/maternal-fetal-immunology"
+
 markdown: kramdown
