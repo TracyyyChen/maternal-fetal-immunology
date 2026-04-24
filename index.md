@@ -2,7 +2,7 @@
 title: "Maternal-Fetal Immunology"
 layout: splash
 header:
-  overlay_image: /assets/images/hero.jpg
+  overlay_image: /assets/images/front_page.png
   overlay_filter: 0.35
   actions:
     - label: "Start Learning"

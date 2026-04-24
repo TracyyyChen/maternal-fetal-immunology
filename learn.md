@@ -2,8 +2,8 @@
 title: "Learn"
 permalink: /learn/
 layout: single
-toc: true
-toc_sticky: true
+sidebar:
+  nav: "learn"
 ---
 
 ## Part 1 — Immunology Foundations

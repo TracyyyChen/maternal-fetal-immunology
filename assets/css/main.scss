@@ -1,0 +1,14 @@
+---
+---
+
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+body, .page__content, .page__title, .archive__item-title,
+h1, h2, h3, h4, h5, h6, p, li, blockquote {
+  font-family: 'Lora', Georgia, serif;
+}
