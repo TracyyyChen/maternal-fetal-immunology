@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Learn"
     url: /learn/part1/
-  - title: "Media"
-    url: /media/
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/
 
@@ -38,3 +38,11 @@ learn:
         url: /learn/part3/#cool-research-frontiers
       - title: "Why we need you"
         url: /learn/part3/#why-we-need-you--open-questions-and-how-to-get-involved
+
+resources:
+  - title: "Papers & Reviews"
+    url: /resources/#papers--reviews
+  - title: "Videos & Figures"
+    url: /resources/#videos--figures
+  - title: "Opportunities"
+    url: /resources/#opportunities
