@@ -14,30 +14,57 @@ learn:
     children:
       - title: "What is the immune system?"
         url: /learn/part1/#what-is-the-immune-system
-      - title: "How the immune system attacks threats"
-        url: /learn/part1/#how-does-the-immune-system-recognize-and-attack-threats
-      - title: "Tolerance"
-        url: /learn/part1/#tolerance--how-does-your-body-learn-not-to-attack-itself
-  - title: "Part 2 — The Immunological Puzzle"
+      - title: "Recognizing the enemy"
+        url: /learn/part1/#recognizing-the-enemy
+      - title: "Learning not to attack yourself"
+        url: /learn/part1/#learning-not-to-attack-yourself
+  - title: "Part 2 — The Puzzle of Pregnancy"
     url: /learn/part2/
     children:
-      - title: "Why pregnancy is paradoxical"
-        url: /learn/part2/#why-pregnancy-is-immunologically-paradoxical
-      - title: "The uterus is an immune organ"
-        url: /learn/part2/#the-uterus-is-an-immune-organ
-      - title: "How the placenta negotiates"
-        url: /learn/part2/#how-the-placenta-actively-negotiates-with-the-immune-system
-      - title: "Immune shifts across trimesters"
-        url: /learn/part2/#the-immune-system-shifts-across-trimesters
-  - title: "Part 3 — Open Questions"
+      - title: "The paradox at the heart of pregnancy"
+        url: /learn/part2/#the-paradox-at-the-heart-of-pregnancy
+      - title: "The uterus as an immune organ"
+        url: /learn/part2/#the-uterus-as-an-immune-organ
+      - title: "The placenta's immune toolkit"
+        url: /learn/part2/#the-placentas-immune-toolkit
+      - title: "A trimester-by-trimester immune story"
+        url: /learn/part2/#a-trimester-by-trimester-immune-story
+  - title: "Part 3 — Model Systems"
     url: /learn/part3/
     children:
-      - title: "When it goes wrong"
-        url: /learn/part3/#when-it-goes-wrong
-      - title: "Cool research frontiers"
-        url: /learn/part3/#cool-research-frontiers
-      - title: "Why we need you"
-        url: /learn/part3/#why-we-need-you--open-questions-and-how-to-get-involved
+      - title: "Why we need model systems"
+        url: /learn/part3/#why-we-need-model-systems
+      - title: "Case study: Cancer and autoimmunity"
+        url: /learn/part3/#case-study-cancer-and-autoimmunity
+      - title: "Why pregnancy deserves a seat at the table"
+        url: /learn/part3/#why-pregnancy-deserves-a-seat-at-the-table
+  - title: "Part 4 — When Tolerance Breaks Down"
+    url: /learn/part4/
+    children:
+      - title: "Recurrent miscarriage"
+        url: /learn/part4/#case-study-recurrent-miscarriage
+      - title: "Preeclampsia"
+        url: /learn/part4/#case-study-preeclampsia
+      - title: "Preterm birth"
+        url: /learn/part4/#case-study-preterm-birth
+      - title: "OB-GYN: ripe for revolution"
+        url: /learn/part4/#ob-gyn-as-a-field-ripe-for-an-immunological-revolution
+  - title: "Part 5 — Applications Beyond Pregnancy"
+    url: /learn/part5/
+    children:
+      - title: "Cancer"
+        url: /learn/part5/#cancer
+      - title: "Transplant medicine"
+        url: /learn/part5/#transplant-medicine
+      - title: "Autoimmunity"
+        url: /learn/part5/#autoimmunity
+  - title: "Part 6 — Frontiers & Why We Need You"
+    url: /learn/part6/
+    children:
+      - title: "Cutting-edge research"
+        url: /learn/part6/#cutting-edge-research-at-the-maternal-fetal-interface
+      - title: "Open questions and how to get involved"
+        url: /learn/part6/#open-questions-and-how-to-get-involved
 
 resources:
   - title: "Papers & Reviews"
