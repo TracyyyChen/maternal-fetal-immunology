@@ -23,11 +23,7 @@ sidebar:
 
 ### Intro video
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Pj-ybRuZBLs"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen></iframe>
+▶ [Watch on YouTube](https://www.youtube.com/watch?v=Pj-ybRuZBLs){: .btn .btn--info}
 
 ### Figures
 

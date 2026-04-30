@@ -1,5 +1,5 @@
 ---
-title: "Part 5 — Applications Beyond Pregnancy"
+title: "Part 5: Applications Beyond Pregnancy"
 permalink: /learn/part5/
 layout: single
 sidebar:

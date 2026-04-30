@@ -1,5 +1,5 @@
 ---
-title: "Part 6 — Frontiers and Why We Need You"
+title: "Part 6: Frontiers and Why We Need You"
 permalink: /learn/part6/
 layout: single
 sidebar:

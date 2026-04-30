@@ -1,5 +1,5 @@
 ---
-title: "Part 3 — Model Systems: How Immunologists Think About Tolerance"
+title: "Part 3: Model Systems: How Immunologists Think About Tolerance"
 permalink: /learn/part3/
 layout: single
 sidebar:
@@ -25,11 +25,7 @@ In the study of immunology, two model systems have dominated the field: cancer a
 
 For most of the 20th century, immunologists recognized that tumors expressed abnormal proteins that the immune system should recognize, but didn't. The question of why occupied researchers for decades, and the answer ended up revolutionizing cancer care. Tumors, it turned out, were not simply invisible to the immune system — they were actively suppressing it. They recruit Tregs to their local tumor microenvironment, downregulate their MHC molecules, and express immune checkpoint molecules, together creating an immunosuppressive niche that switches off anti-cancer cytotoxic T cells. In other words, tumors exploit the very mechanisms of tolerance that the immune system uses to protect healthy tissue — to protect themselves instead.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/[CHECKPOINT_INHIBITOR_VIDEO_ID]"
-title="Checkpoint Inhibitors as Cancer Treatment — Cancer Research UK"
-frameborder="0"
-allowfullscreen></iframe>
+▶ [Watch: Checkpoint Inhibitors as Cancer Treatment — Cancer Research UK](https://www.youtube.com/results?search_query=checkpoint+inhibitors+cancer+research+uk){: .btn .btn--info}
 
 This insight was transformative not just for cancer biology, but for the entire field of immunology. The discovery of checkpoint molecules that tumors hijack — like PD-1, CTLA-4, and others — turned out to be fundamental regulators of immune activation in both health and disease. **Checkpoint blockade immunotherapy**, now approved to treat dozens of cancers and having saved hundreds of thousands of lives, was built entirely on this mechanistic understanding. Cancer gave immunologists a system in which tolerance mechanisms were overactive, manipulatable, and clinically relevant — and the field learned enormously from it.
 
@@ -43,7 +39,7 @@ The therapeutic implications have also been significant. By investigating the ro
 
 ## Why pregnancy deserves a seat at the table
 
-Consider what the ideal model system for studying tolerance would look like. It would involve tolerance to a defined, well-characterized foreign antigen. It would be **physiological** — occurring in a healthy organism under normal conditions. It would be **inducible and reversible**: you could study the moment tolerance was established, the period during which it was maintained, and the moment it was resolved, all in the same system. It would unfold on a **predictable timeline**. Ideally, it would be **clinically relevant**, with natural failure modes that illuminate which mechanisms are truly essential.
+Consider what the ideal model system for studying tolerance would look like. It would involve tolerance to a defined, well-characterized foreign antigen. It would be **physiological**, occurring in a healthy organism under normal conditions. It would be **inducible and reversible**: you could study the moment tolerance was established, the period during which it was maintained, and the moment it was resolved, all in the same system. It would unfold on a **predictable timeline**. Ideally, it would be **clinically relevant**, with natural failure modes that illuminate which mechanisms are truly essential.
 
 Pregnancy checks every one of these boxes.
 

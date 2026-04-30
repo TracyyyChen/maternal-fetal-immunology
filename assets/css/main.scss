@@ -6,15 +6,110 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,600;0,700;1,600&family=Nunito+Sans:wght@400;600&display=swap');
 
-body, .page__content, .page__title, .archive__item-title,
-h1, h2, h3, h4, h5, h6, p, li, blockquote {
-  font-family: 'Lora', Georgia, serif;
+/* Headings: Lora */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.feature__item .archive__item-title {
+  font-family: 'Lora', Georgia, serif !important;
 }
 
-/* taller hero banner */
+/* Everything else: Nunito Sans */
+body, p, li, td, blockquote,
+.page__content,
+.nav__title, .nav__sub-title, label.nav__sub-title,
+.nav__item > a, .nav__items a,
+.greedy-nav a, .site-title,
+.masthead__menu-item,
+.btn, input, textarea, select {
+  font-family: 'Nunito Sans', system-ui, sans-serif !important;
+}
+
+/* Sidebar section headers */
+.nav__sub-title, label.nav__sub-title {
+  font-family: 'Nunito Sans', system-ui, sans-serif !important;
+  text-transform: none !important;
+  font-style: normal !important;
+  letter-spacing: 0 !important;
+  font-size: 0.72rem !important;
+  font-weight: 600 !important;
+  color: #3d4144 !important;
+  border-bottom: 1px solid #e8e8e8 !important;
+}
+
+/* Sidebar links */
+.nav__item > a, .nav__items a {
+  font-family: 'Nunito Sans', system-ui, sans-serif !important;
+  text-transform: none !important;
+  font-style: normal !important;
+  font-size: 0.72rem !important;
+  font-weight: 400 !important;
+  color: #494e52 !important;
+}
+
+/* Content font size */
+.page__content p,
+.page__content li,
+.page__content td {
+  font-size: 0.9rem;
+  line-height: 1.75;
+}
+
+.page__content h2 { font-size: 1.4rem; }
+.page__content h3 { font-size: 1.1rem; }
+
+/* Remove reserved right-sidebar gap */
+.layout--single .page {
+  padding-right: 1em !important;
+}
+
+/* Hero banner */
 .page__hero--overlay {
   min-height: 500px;
   padding: 6em 0;
+}
+
+/* Landing page cards */
+.feature__wrapper {
+  border-top: 2px solid #f2f3f3;
+  padding-top: 2em;
+}
+
+.feature__item p {
+  font-size: 0.88rem;
+}
+
+/* Video embeds */
+.video-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  margin: 1.5em 0 3em;
+
+  &::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; /* 16:9 */
+  }
+
+  iframe {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+/* Figures */
+.figure-wrap {
+  margin: 2em 0 1.5em;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
 }

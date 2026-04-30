@@ -6,23 +6,21 @@ sidebar:
   nav: "learn"
 ---
 
-## Part 1 — Immunology Foundations
+## Part 1: Immunology Foundations
 
 ### What is the immune system?
 
-[Replace with content: self vs. non-self, innate vs. adaptive immunity.]
 
 ### How does the immune system recognize and attack threats?
 
-[Replace with content: pattern recognition, T cells, B cells, antibodies, inflammation.]
 
-### Tolerance — how does your body learn not to attack itself?
+### Tolerance: how does your body learn not to attack itself?
 
 [Replace with content: central and peripheral tolerance, regulatory T cells, why this matters.]
 
 ---
 
-## Part 2 — The Immunological Puzzle of Pregnancy
+## Part 2: The Immunological Puzzle of Pregnancy
 
 ### Why pregnancy is immunologically paradoxical
 

@@ -1,10 +1,12 @@
 ---
-title: "Part 2 — The Immunological Puzzle of Pregnancy"
+title: "Part 2: The Immunological Puzzle of Pregnancy"
 permalink: /learn/part2/
 layout: single
 sidebar:
   nav: "learn"
 ---
+
+![Peter Medawar and the immunological paradox of pregnancy]({{ "/assets/images/Medawar.png" | relative_url }})
 
 ## The paradox at the heart of pregnancy
 
@@ -18,11 +20,11 @@ What we now understand is that pregnancy isn't a state of immune suppression or 
 
 ## The uterus as an immune organ
 
-Most people think of the uterus as a passive vessel, like a warm, sheltered space where a fetus simply grows. The immunological reality is almost the opposite. The lining of the uterus, called the endometrium, transforms dramatically each month in preparation for a potential pregnancy, and when implantation occurs, it differentiates into a highly specialized tissue called the **decidua**. The decidua is not ordinary tissue — it is densely packed with immune cells, making the implantation site one of the most immunologically active locations in the entire body. This might seem counterintuitive: why would you want an immune hotspot right where a genetically foreign embryo is trying to attach? The answer is that those immune cells aren't there to reject the embryo. They've been reprogrammed, through signals from both the mother's hormones and the arriving embryo itself, to serve a completely different set of functions that are essential for a healthy pregnancy.
+Most people think of the uterus as a passive vessel, like a warm, sheltered space where a fetus simply grows. The immunological reality is almost the opposite. The lining of the uterus, called the endometrium, transforms dramatically each month in preparation for a potential pregnancy, and when implantation occurs, it differentiates into a highly specialized tissue called the **decidua**. The decidua is not ordinary tissue; it is densely packed with immune cells, making the implantation site one of the most immunologically active locations in the entire body. This might seem counterintuitive: why would you want an immune hotspot right where a genetically foreign embryo is trying to attach? The answer is that those immune cells aren't there to reject the embryo. They've been reprogrammed, through signals from both the mother's hormones and the arriving embryo itself, to serve a completely different set of functions that are essential for a healthy pregnancy.
 
 The dominant immune cells in the decidua are unlike anything elsewhere in the body. **Uterine natural killer cells, or uNK cells**, make up 70% of all immune cells at the implantation site during early pregnancy, yet they look and behave almost nothing like the natural killer cells circulating in your blood. Blood NK cells are killers: they destroy virus-infected and cancerous cells on contact. Uterine NK cells, by contrast, have dialed down their killing capacity and pivoted toward supporting the pregnancy. They release growth factors that help build new blood vessels that the placenta will need to tap into the maternal blood supply. They also help remodel the spiral arteries, the maternal blood vessels that supply the implantation site, widening them so that blood flow to the fetus is adequate throughout pregnancy. **Uterine macrophages**, the other major immune population in the decidua, similarly play a dual role: clearing cellular debris, shaping tissue remodeling, and releasing anti-inflammatory signals that help maintain local tolerance. Both cell types are in constant dialogue with the invading placental cells called trophoblasts — a molecular negotiation that determines whether implantation succeeds.
 
-What makes the decidua truly remarkable is that it is a niche the body constructs specifically to manage this immunological problem. It doesn't just passively tolerate the embryo — it actively builds an environment where tolerance is the default state. The decidua has higher concentrations of Tregs than almost any other tissue. It expresses unusual combinations of cytokines that suppress conventional immune activation. And the trophoblasts arriving from the fetal side express a unique set of surface molecules, including a protein called **HLA-G**, that specifically engage with uNK cells and macrophages to signal "I am welcome here." Throughout this process, the immune system remains alert and active — unlike Medawar's theory of immune "blindness."
+What makes the decidua truly remarkable is that it is a niche the body constructs specifically to manage this immunological problem. It doesn't just passively tolerate the embryo — it actively builds an environment where tolerance is the default state. The decidua has higher concentrations of Tregs than almost any other tissue. It expresses unusual combinations of cytokines that suppress conventional immune activation. And the trophoblasts arriving from the fetal side express a unique set of surface molecules, including a protein called **HLA-G**, that specifically engage with uNK cells and macrophages to signal "I am welcome here." Throughout this process, the immune system remains alert and active, unlike Medawar's theory of immune "blindness."
 
 ---
 
@@ -38,12 +40,14 @@ On top of this, trophoblasts regulate the **complement system** (a cascade of bl
 
 What makes this system so scientifically fascinating is that it works at the interface of two different organisms, in real time, across the entire length of pregnancy. Critically, when this negotiation breaks down — when HLA-G signaling is insufficient, complement regulation fails, or checkpoint molecules are dysregulated — the consequences can be severe: miscarriage, preeclampsia, and fetal growth restriction. The placenta's immune toolkit is the molecular basis for why pregnancy succeeds at all.
 
-![Interactions between fetal trophoblasts and maternal immune cells](/assets/images/placeholder.png)
+![Interactions between fetal trophoblasts and maternal immune cells]({{ "/assets/images/Trophoblasts.png" | relative_url }})
 *Interactions between fetal trophoblasts and maternal immune cells. Adapted from S Liu et al., 2017.*
 
 ---
 
 ## A trimester-by-trimester immune story
+
+![Immune system changes across trimesters]({{ "/assets/images/TrimesterImmunology.png" | relative_url }})
 
 One of the most elegant and underappreciated facts about pregnancy is that the maternal immune system doesn't simply adopt a single fixed state and hold it for nine months. Instead, it shifts through three distinct immunological phases timed to match what the pregnancy needs at that moment. This idea was formalized by immunologist **Gil Mor**, who proposed that pregnancy is not a state of immune tolerance but a dynamic, carefully orchestrated sequence of immune states: successful pregnancy requires inflammation, then tolerance, then inflammation again. Each phase, if it fails to occur or occurs at the wrong time, is associated with a specific category of pregnancy complication.
 

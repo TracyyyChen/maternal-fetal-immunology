@@ -1,5 +1,5 @@
 ---
-title: "Part 4 — When Maternal-Fetal Tolerance Breaks Down"
+title: "Part 4: When Maternal-Fetal Tolerance Breaks Down"
 permalink: /learn/part4/
 layout: single
 sidebar:

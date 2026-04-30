@@ -9,7 +9,7 @@ main:
     url: /about/
 
 learn:
-  - title: "Part 1 — Immunology Foundations"
+  - title: "Part 1: Immunology Foundations"
     url: /learn/part1/
     children:
       - title: "What is the immune system?"
@@ -18,7 +18,7 @@ learn:
         url: /learn/part1/#recognizing-the-enemy
       - title: "Learning not to attack yourself"
         url: /learn/part1/#learning-not-to-attack-yourself
-  - title: "Part 2 — The Puzzle of Pregnancy"
+  - title: "Part 2: The Puzzle of Pregnancy"
     url: /learn/part2/
     children:
       - title: "The paradox at the heart of pregnancy"
@@ -29,7 +29,7 @@ learn:
         url: /learn/part2/#the-placentas-immune-toolkit
       - title: "A trimester-by-trimester immune story"
         url: /learn/part2/#a-trimester-by-trimester-immune-story
-  - title: "Part 3 — Model Systems"
+  - title: "Part 3: Model Systems"
     url: /learn/part3/
     children:
       - title: "Why we need model systems"
@@ -38,7 +38,7 @@ learn:
         url: /learn/part3/#case-study-cancer-and-autoimmunity
       - title: "Why pregnancy deserves a seat at the table"
         url: /learn/part3/#why-pregnancy-deserves-a-seat-at-the-table
-  - title: "Part 4 — When Tolerance Breaks Down"
+  - title: "Part 4: When Tolerance Breaks Down"
     url: /learn/part4/
     children:
       - title: "Recurrent miscarriage"
@@ -49,7 +49,7 @@ learn:
         url: /learn/part4/#case-study-preterm-birth
       - title: "OB-GYN: ripe for revolution"
         url: /learn/part4/#ob-gyn-as-a-field-ripe-for-an-immunological-revolution
-  - title: "Part 5 — Applications Beyond Pregnancy"
+  - title: "Part 5: Applications Beyond Pregnancy"
     url: /learn/part5/
     children:
       - title: "Cancer"
@@ -58,7 +58,7 @@ learn:
         url: /learn/part5/#transplant-medicine
       - title: "Autoimmunity"
         url: /learn/part5/#autoimmunity
-  - title: "Part 6 — Frontiers & Why We Need You"
+  - title: "Part 6: Frontiers & Why We Need You"
     url: /learn/part6/
     children:
       - title: "Cutting-edge research"
@@ -67,9 +67,10 @@ learn:
         url: /learn/part6/#open-questions-and-how-to-get-involved
 
 resources:
+  - title: "Opportunities"
+    url: /resources/#opportunities
   - title: "Papers & Reviews"
     url: /resources/#papers--reviews
   - title: "Videos & Figures"
     url: /resources/#videos--figures
-  - title: "Opportunities"
-    url: /resources/#opportunities
+
