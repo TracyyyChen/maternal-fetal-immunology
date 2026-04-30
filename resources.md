@@ -2,6 +2,7 @@
 title: "Resources"
 permalink: /resources/
 layout: single
+classes: page--resources
 sidebar:
   nav: "resources"
 ---
@@ -28,13 +29,27 @@ sidebar:
 
 ## Papers & Reviews
 
-| Title | Authors & Year | Notes | Link |
-|-------|---------------|-------|------|
-| Frontiers of preeclampsia immune research | | Key review on immune origins of PE | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994979/) |
-| Immunologic aspects of pregnancy | Boulanger et al., 2024 | Covers placenta/tumor/transplant parallels | [Add link] |
-| Similarities between placenta and tumor | | Shared immune evasion strategies | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165037826000628) |
-| Fetal microchimerism and autoimmunity | Comitre-Mariano et al., 2021 | | [Add link] |
-| Innate and adaptive immunity in preterm labor | Gomez-Lopez et al. | | [Add link] |
+### Reviews
+
+| Title | Link |
+|-------|------|
+| Immunology at the Maternal-Fetal Interface | [NIH Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK574542/) |
+| Fetal-Maternal Interactions During Pregnancy: A 'Three-in-One' Perspective | [Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1198430/full) |
+| Placental Immunodynamics Regulated by Leukocytes and Trophoblasts: From Pregnancy to Onco-Fetal Immunity | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165037826000628) |
+| Immunological Mechanisms at the Maternal-Fetal Interface | [Nature Index](https://www.nature.com/nature-index/topics/l4/immunological-mechanisms-at-the-maternal-fetal-interface) |
+| Immunologic Aspects of Pregnancy | Boulanger et al., 2024 — [Add link] |
+| Frontiers of Preeclampsia Immune Research | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994979/) |
+
+### New Studies
+
+| Title | Link |
+|-------|------|
+| Gut Microbiota Promotes Tolerance at the Maternal-Fetal Interface | [Cell](https://www.cell.com/cell/abstract/S0092-8674(25)01318-2) |
+| CCR8+ Decidual Regulatory T Cells Maintain Maternal-Fetal Immune Tolerance During Early Pregnancy | [Science Immunology](https://www.science.org/doi/10.1126/sciimmunol.ado2463) |
+| Human Uterine Natural Killer Cells Regulate Differentiation of Extravillous Trophoblast Early in Pregnancy | [Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00443-5) |
+| KDM6B-Dependent Epigenetic Programming of Uterine Fibroblasts in Early Pregnancy Regulates Parturition Timing in Mice | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0092867424014326) |
+| Fetal Microchimerism and Autoimmunity | Comitre-Mariano et al., 2021 — [Add link] |
+| Innate and Adaptive Immunity in Preterm Labor | Gomez-Lopez et al. — [Add link] |
 
 ---
 

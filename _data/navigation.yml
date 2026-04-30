@@ -68,11 +68,35 @@ learn:
       - title: "Open questions and how to get involved"
         url: /learn/part6/#open-questions-and-how-to-get-involved
 
+blog:
+  - title: "Interviews"
+    url: /blog/
+    children:
+      - title: "Shanshan Zhang"
+        url: /blog/#shanshan-zhang
+      - title: "Ines Zalosnik"
+        url: /blog/#ines-zalosnik
+  - title: "Blog Posts"
+    url: /blog/
+
+about:
+  - title: "About This Site"
+    url: /about/
+  - title: "Team"
+    url: /about/#team
+  - title: "Get in Touch"
+    url: /about/#get-in-touch
+
 resources:
   - title: "Opportunities"
     url: /resources/#opportunities
   - title: "Papers & Reviews"
     url: /resources/#papers--reviews
+    children:
+      - title: "Reviews"
+        url: /resources/#reviews
+      - title: "New Studies"
+        url: /resources/#new-studies
   - title: "Videos & Extra Learning"
     url: /resources/#videos--extra-learning
 

@@ -2,7 +2,9 @@
 title: "About"
 permalink: /about/
 layout: single
-classes: wide
+classes: page--about
+sidebar:
+  nav: "about"
 ---
 
 This open educational website was created as part of MIT 20.365/20.465: Engineering the Immune System in Cancer and Beyond (Spring 2026), taught by Professor Jessica Stark and Professor Dane Wittrup.
