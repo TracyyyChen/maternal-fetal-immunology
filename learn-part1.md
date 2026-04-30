@@ -6,6 +6,13 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="decorative-corner decorative-corner--left">
+  <img src="{{ '/assets/images/background_options/Slide7.png' | relative_url }}" alt="">
+</div>
+<div class="decorative-corner decorative-corner--right">
+  <img src="{{ '/assets/images/background_options/Slide6.png' | relative_url }}" alt="">
+</div>
+
 ## What is the immune system?
 
 <div class="video-wrap">

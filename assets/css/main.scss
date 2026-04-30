@@ -81,9 +81,136 @@ body, p, li, td, blockquote,
   font-size: 0.88rem;
 }
 
+/* Contact form */
+.contact-form {
+  max-width: 540px;
+  margin-top: 1.5em;
+}
+
+.contact-form__field {
+  margin-bottom: 1.1em;
+}
+
+.contact-form__field label {
+  display: block;
+  margin-bottom: 0.3em;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #3d4144;
+}
+
+.contact-form__field input,
+.contact-form__field textarea {
+  width: 100%;
+  padding: 0.5em 0.75em;
+  border: 1px solid #d8d8d8;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background: #fafafa;
+  color: #3d4144;
+  transition: border-color 0.15s;
+}
+
+.contact-form__field input:focus,
+.contact-form__field textarea:focus {
+  outline: none;
+  border-color: #aaa;
+  background: #fff;
+}
+
+.contact-form__field textarea {
+  resize: vertical;
+}
+
+/* Learn sidebar background */
+.sidebar {
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  padding: 0.75em 1em !important;
+}
+
+/* ===== Color palette ===== */
+
+/* Content links — muted teal */
+.page__content a {
+  color: #5F8F8B;
+  text-decoration: none;
+  border-bottom: 1px solid #E8B7A8;
+  transition: color 0.15s, border-color 0.15s;
+}
+.page__content a:hover {
+  color: #3E6F6B;
+  border-bottom-color: #5F8F8B;
+}
+
+/* Nav hover accent */
+.greedy-nav a:hover,
+.nav__item > a:hover,
+.nav__items a:hover {
+  color: #5F8F8B !important;
+}
+
+/* Primary buttons */
+.btn--primary {
+  background-color: #C97C5D !important;
+  border-color: #C97C5D !important;
+  color: #fff !important;
+}
+.btn--primary:hover {
+  background-color: #a9603e !important;
+  border-color: #a9603e !important;
+}
+
+/* Info/accent buttons */
+.btn--info {
+  background-color: #C97C5D !important;
+  border-color: #C97C5D !important;
+  color: #fff !important;
+}
+.btn--info:hover {
+  background-color: #a9603e !important;
+  border-color: #a9603e !important;
+}
+
+/* Heading color */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.feature__item .archive__item-title {
+  color: #2a2a2a !important;
+}
+
+
+/* Body text */
+.page__content p,
+.page__content li,
+.page__content td {
+  color: #444444;
+}
+
+/* ===== Decorative corner illustrations ===== */
+.decorative-corner {
+  position: fixed;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 0;
+  width: 800px;
+  max-width: 36vw;
+  opacity: 0.4;
+}
+
+.decorative-corner--left  { left: 0; }
+.decorative-corner--right { right: 0; }
+
+.decorative-corner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  mix-blend-mode: multiply;
+}
+
 /* Video embeds */
 .video-wrap {
-  max-width: 640px;
   margin: 0.25em 0 3em;
 }
 

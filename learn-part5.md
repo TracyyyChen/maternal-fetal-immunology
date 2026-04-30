@@ -26,7 +26,10 @@ Finally, the maternal-fetal interface suggests that evolution has already solved
 
 > **Key paper:** [Similarities between placenta and tumor — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165037826000628)
 
-![CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface](/assets/images/placeholder.png)
+<div class="figure-wrap">
+<img src="{{ "/assets/images/CTLA4IDO.png" | relative_url }}" alt="CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface">
+</div>
+
 *CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface. From Boulanger et al., 2024.*
 
 ---
@@ -53,5 +56,8 @@ Pregnancy itself offers some of the most compelling evidence for this connection
 
 **Fetal microchimerism** adds another layer. Small numbers of fetal cells enter maternal circulation during pregnancy and can persist in maternal tissues for decades — fetal DNA has been found in the maternal brain 30 years after pregnancy. The immune system must continue tolerating these persisting cells, meaning the immunological paradox of pregnancy extends beyond birth. Some evidence suggests that unusual accumulations of fetal microchimeric cells in specific organs are associated with autoimmune diseases targeting those organs. While this is still a hypothesis, it is exactly the kind of groundbreaking theory open for a new generation of researchers to investigate.
 
-![Fetal cell trafficking during pregnancy](/assets/images/placeholder.png)
+<div class="figure-wrap">
+<img src="{{ "/assets/images/FetalCellTrafficking.png" | relative_url }}" alt="Fetal cell trafficking during pregnancy">
+</div>
+
 *Fetal cell trafficking to the mother begins at 4–6 weeks in humans and can persist for up to 27 years. Adapted from Comitre-Mariano et al., 2021.*

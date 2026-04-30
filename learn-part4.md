@@ -44,7 +44,10 @@ Preterm birth is the leading cause of neonatal death and long-term disability wo
 
 The most well-characterized trigger is intrauterine infection. When bacteria ascend from the vaginal microbiome into the uterine cavity, innate immune sensors on decidual and myometrial cells detect bacterial products and mount an inflammatory response, releasing prostaglandins, matrix metalloproteinases, and pro-inflammatory cytokines that activate the labor cascade — only weeks or months too early. Adaptive immune cells are also hypothesized to participate, with alterations in their tolerance-maintaining function potentially leading to preterm labor. Immune cells that bridge the innate and adaptive systems — naturally killer T (NKT) cells and dendritic cells (DCs) — also appear to participate in the pathophysiology.
 
-![Innate and adaptive immune cells in term vs. preterm labor](/assets/images/placeholder.png)
+<div class="figure-wrap">
+<img src="{{ "/assets/images/TLPTL.png" | relative_url }}" alt="Innate and adaptive immune cells in term vs. preterm labor">
+</div>
+
 *Schematic of innate and adaptive immune cells at the maternal-fetal interface in term labor (TL) and preterm labor (PTL). From Gomez-Lopez et al.*
 
 ---

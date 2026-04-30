@@ -26,6 +26,10 @@ The dominant immune cells in the decidua are unlike anything elsewhere in the bo
 
 What makes the decidua truly remarkable is that it is a niche the body constructs specifically to manage this immunological problem. It doesn't just passively tolerate the embryo — it actively builds an environment where tolerance is the default state. The decidua has higher concentrations of Tregs than almost any other tissue. It expresses unusual combinations of cytokines that suppress conventional immune activation. And the trophoblasts arriving from the fetal side express a unique set of surface molecules, including a protein called **HLA-G**, that specifically engage with uNK cells and macrophages to signal "I am welcome here." Throughout this process, the immune system remains alert and active, unlike Medawar's theory of immune "blindness."
 
+<div class="figure-wrap">
+<img src="{{ "/assets/images/TrophoblastImmuneInteraction.png" | relative_url }}" alt="Interactions between fetal trophoblasts and maternal immune cells at the decidua">
+</div>
+
 ---
 
 ## The placenta's immune toolkit
