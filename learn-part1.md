@@ -45,7 +45,11 @@ Those "wanted posters" are recognized by T cells. Each T cell carries a unique r
 ## Learning not to attack yourself
 
 <div class="video-wrap">
-<iframe src="https://www.youtube.com/embed/jpL3wCxS-BM" title="Immune tolerance and regulatory T cells" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Immune tolerance" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-wrap">
+<iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Regulatory T cells" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The immune system faces a fundamental design problem: it needs to be aggressive enough to destroy pathogens, but restrained enough not to destroy the body it's protecting. The solution is **tolerance**: a set of mechanisms that teach immune cells to ignore "self" antigens. The first layer happens in the thymus, where T cells are born and educated through a process called **central tolerance**. Immature T cells are exposed to samples of the body's own proteins — if a T cell reacts too strongly, it gets deleted. This **clonal deletion** eliminates roughly 95% of all T cells produced. Only cells that are functional but non-reactive to self survive.

@@ -14,7 +14,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
 <div style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 1em;">
 
   <div style="text-align: center; width: 160px;">
-    <img src="/assets/images/placeholder.png" alt="Team member photo"
+    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
@@ -24,7 +24,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   </div>
 
   <div style="text-align: center; width: 160px;">
-    <img src="/assets/images/placeholder.png" alt="Team member photo"
+    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
@@ -34,7 +34,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   </div>
 
   <div style="text-align: center; width: 160px;">
-    <img src="/assets/images/placeholder.png" alt="Team member photo"
+    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
@@ -44,7 +44,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   </div>
 
   <div style="text-align: center; width: 160px;">
-    <img src="/assets/images/placeholder.png" alt="Team member photo"
+    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
