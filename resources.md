@@ -28,23 +28,16 @@ sidebar:
 
 ## Papers & Reviews
 
-| Title | Notes | Link |
-|-------|-------|------|
-| Frontiers of preeclampsia immune research | Key review on immune origins of PE | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994979/) |
-| Immunologic aspects of pregnancy | Boulanger et al., 2024 — covers placenta/tumor/transplant parallels | [Add link] |
-| Similarities between placenta and tumor | Shared immune evasion strategies | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165037826000628) |
-| Fetal microchimerism and autoimmunity | Comitre-Mariano et al., 2021 | [Add link] |
-| Innate and adaptive immunity in preterm labor | Gomez-Lopez et al. | [Add link] |
-| [Add paper] | | [Add link] |
+| Title | Authors & Year | Notes | Link |
+|-------|---------------|-------|------|
+| Frontiers of preeclampsia immune research | | Key review on immune origins of PE | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994979/) |
+| Immunologic aspects of pregnancy | Boulanger et al., 2024 | Covers placenta/tumor/transplant parallels | [Add link] |
+| Similarities between placenta and tumor | | Shared immune evasion strategies | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165037826000628) |
+| Fetal microchimerism and autoimmunity | Comitre-Mariano et al., 2021 | | [Add link] |
+| Innate and adaptive immunity in preterm labor | Gomez-Lopez et al. | | [Add link] |
 
 ---
 
-## Videos & Figures
-
-### Intro video
+## Videos & Extra Learning
 
 ▶ [Watch on YouTube](https://www.youtube.com/watch?v=Pj-ybRuZBLs){: .btn .btn--info}
-
-### Figures
-
-![Diagram placeholder](/assets/images/placeholder.png)

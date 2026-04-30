@@ -42,10 +42,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-<div class="decorative-corner decorative-corner--left">
-  <img src="{{ '/assets/images/background_options/Slide5.png' | relative_url }}" alt="">
-</div>
-<div class="decorative-corner decorative-corner--right">
-  <img src="{{ '/assets/images/background_options/Slide3.png' | relative_url }}" alt="">
-</div>

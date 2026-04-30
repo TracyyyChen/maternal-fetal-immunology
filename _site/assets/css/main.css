@@ -5272,7 +5272,7 @@ body, p, li, td, blockquote,
   font-family: "Nunito Sans", system-ui, sans-serif !important;
   text-transform: none !important;
   font-style: normal !important;
-  font-size: 0.72rem !important;
+  font-size: 0.8rem !important;
   font-weight: 400 !important;
   color: #494e52 !important;
 }
@@ -5281,7 +5281,7 @@ body, p, li, td, blockquote,
 .page__content p,
 .page__content li,
 .page__content td {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: 1.75;
 }
 
@@ -5296,6 +5296,33 @@ body, p, li, td, blockquote,
 /* Remove reserved right-sidebar gap */
 .layout--single .page {
   padding-right: 1em !important;
+}
+
+/* Page background — matches illustration cream */
+body {
+  background-color: #f7f4f1 !important;
+}
+
+/* Footer */
+.page__footer {
+  background-color: #a9aeae !important;
+  color: #f0f4f4 !important;
+  padding-top: 0.1em !important;
+  padding-bottom: 0.1em !important;
+}
+
+.page__footer a {
+  color: #ccdcdb !important;
+  border-bottom: none !important;
+}
+
+.page__footer a:hover {
+  color: #fff !important;
+}
+
+.page__footer-copyright {
+  color: #f0f4f4 !important;
+  font-size: 0.8rem !important;
 }
 
 /* Hero banner */
@@ -5423,29 +5450,26 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* ===== Decorative corner illustrations ===== */
-.decorative-corner {
+body::before {
+  content: "";
   position: fixed;
   bottom: 0;
-  pointer-events: none;
-  z-index: 0;
-  width: 800px;
-  max-width: 36vw;
-  opacity: 0.4;
-}
-
-.decorative-corner--left {
   left: 0;
-}
-
-.decorative-corner--right {
-  right: 0;
-}
-
-.decorative-corner img {
-  display: block;
   width: 100%;
-  height: auto;
+  height: 60vh;
+  pointer-events: none;
+  background-image: url("../images/background_options/newbackground_1.png");
+  background-size: 100% auto;
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  opacity: 0.3;
   mix-blend-mode: multiply;
+}
+
+body.layout--single::before {
+  background-image: url("../images/background_options/newbackground_2.png");
+  height: 80vh;
+  opacity: 0.2;
 }
 
 /* Video embeds */

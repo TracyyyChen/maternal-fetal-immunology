@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Learn"
     url: /learn/part1/
+  - title: "Blog"
+    url: /blog/
   - title: "Resources"
     url: /resources/
   - title: "About"
@@ -71,7 +73,7 @@ resources:
     url: /resources/#opportunities
   - title: "Papers & Reviews"
     url: /resources/#papers--reviews
-  - title: "Videos & Figures"
-    url: /resources/#videos--figures
+  - title: "Videos & Extra Learning"
+    url: /resources/#videos--extra-learning
 
 
