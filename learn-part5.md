@@ -6,6 +6,10 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="section-nav">
+<a href="#cancer">Cancer</a> · <a href="#transplant-medicine">Transplant medicine</a> · <a href="#autoimmunity">Autoimmunity</a>
+</div>
+
 The mechanisms underlying pregnancy are not specific to the maternal-fetal interface — they are fundamental features of the immune system. Understanding them using pregnancy as a model system turns out to help solve some of the most important problems in medicine. This section makes that case explicitly, using unanswered questions in cancer, transplant medicine, and autoimmunity as case studies.
 
 Maternal-fetal immunology does not sit as a niche subfield within immunology. It is central to the field as a whole — and researchers who recognize that are finding that work at the maternal-fetal interface opens doors in directions they never anticipated.

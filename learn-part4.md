@@ -6,6 +6,10 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="section-nav">
+<a href="#case-study-recurrent-miscarriage">Recurrent miscarriage</a> · <a href="#case-study-preeclampsia">Preeclampsia</a> · <a href="#case-study-preterm-birth">Preterm birth</a> · <a href="#ob-gyn-as-a-field-ripe-for-an-immunological-revolution">OB-GYN revolution</a>
+</div>
+
 Everything you've learned previously describes what happens when pregnancy goes right. But the systems involved are extraordinarily complex, and when any one of them fails, the consequences range from early pregnancy loss to life-threatening complications for the mother. These are not rare edge cases: preeclampsia affects 5–8% of pregnancies worldwide and is a leading cause of maternal mortality; preterm birth affects 15 million babies annually and is the leading cause of neonatal death; recurrent miscarriage affects 1–2% of couples trying to conceive, and in at least half of cases no explanation is ever found. **Every two minutes, a woman dies of pregnancy-related causes.** These are staggering numbers for conditions that have virtually no disease-modifying treatments.
 
 Obstetrics has historically approached these conditions as surgical and procedural problems. This section begins to make the case that they are also immunological ones — and that reframing may one day change how these conditions are prevented, diagnosed, and treated.

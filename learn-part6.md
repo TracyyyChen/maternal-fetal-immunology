@@ -6,6 +6,10 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="section-nav">
+<a href="#cutting-edge-research-at-the-maternal-fetal-interface">Cutting-edge research</a> · <a href="#open-questions-and-how-to-get-involved">Open questions & get involved</a>
+</div>
+
 ## Cutting-edge research at the maternal-fetal interface
 
 The following researchers are working at the frontiers of maternal-fetal immunology. Their interviews will be featured here.

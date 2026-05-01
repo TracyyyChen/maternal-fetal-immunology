@@ -6,6 +6,10 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="section-nav">
+<a href="#why-we-need-model-systems">Why we need model systems</a> · <a href="#case-study-cancer-and-autoimmunity">Cancer & autoimmunity</a> · <a href="#why-pregnancy-deserves-a-seat-at-the-table">Why pregnancy deserves a seat at the table</a>
+</div>
+
 ## Why we need model systems
 
 The most transformative discoveries in biology have come from finding systems where a biological process is pushed to an extreme in a reproducible way, allowing mechanisms invisible in normal physiology to become visible. In immunology, the equivalent strategy is to study situations where tolerance is operating at its limits. These situations are called **model systems**, and they are the engine of the field.

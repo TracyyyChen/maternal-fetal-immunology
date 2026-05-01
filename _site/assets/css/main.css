@@ -5524,6 +5524,31 @@ body.page--resources::before {
   color: #C97C5D !important; /* ← nav link hover color */
 }
 
+/* Mobile-only section jump nav */
+.section-nav {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .section-nav {
+    display: block;
+    margin-bottom: 1.5em;
+    padding: 0.6em 0.9em;
+    background: #fdeee2;
+    border-left: 3px solid #C97C5D;
+    border-radius: 0 4px 4px 0;
+    font-size: 0.8rem;
+    line-height: 2;
+  }
+  .section-nav a {
+    color: #5F8F8B !important;
+    border-bottom: none !important;
+  }
+  .section-nav a:hover {
+    color: #3E6F6B !important;
+    text-decoration: underline;
+  }
+}
 /* Video embeds */
 .video-wrap {
   margin: 0.35em auto 4em;

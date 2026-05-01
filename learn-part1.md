@@ -6,6 +6,10 @@ sidebar:
   nav: "learn"
 ---
 
+<div class="section-nav">
+<a href="#what-is-the-immune-system">What is the immune system?</a> · <a href="#recognizing-the-enemy">Recognizing the enemy</a> · <a href="#learning-not-to-attack-yourself">Learning not to attack yourself</a>
+</div>
+
 ## What is the immune system?
 
 <div class="video-wrap">
