@@ -11,8 +11,14 @@ Conversations with researchers and clinicians working at the frontiers of matern
 
 ---
 
-## Shanshan Zhang
-### Interactions Between Maternal and Fetal Immune Cells
+<div class="researcher-card researcher-card--large" id="shanshan-zhang">
+  <img src="{{ '/assets/images/Shanshan.jpeg' | relative_url }}" alt="Shanshan Zhang" class="researcher-photo">
+  <div class="researcher-info">
+    <h2>Shanshan Zhang, Ph.D.</h2>
+    <p class="researcher-affiliation">Postdoctoral Researcher, Huh Lab, Harvard Immunology</p>
+    <p class="researcher-topic">Interactions between maternal and fetal immune cells</p>
+  </div>
+</div>
 
 **What do you work on?**
 
@@ -28,8 +34,14 @@ I would tell them that maternal-fetal immunology is a very exciting and meaningf
 
 ---
 
-## Ines Zalosnik
-### Maternal Immune Activation and Fetal Neurodevelopment
+<div class="researcher-card researcher-card--large" id="ines-zalosnik">
+  <img src="{{ '/assets/images/Ines.jpeg' | relative_url }}" alt="Ines Zalosnik" class="researcher-photo">
+  <div class="researcher-info">
+    <h2>Ines Zalosnik, Ph.D.</h2>
+    <p class="researcher-affiliation">Postdoctoral Researcher, Huh Lab, Harvard Immunology</p>
+    <p class="researcher-topic">Maternal immune activation and fetal neurodevelopment</p>
+  </div>
+</div>
 
 **What do you work on?**
 

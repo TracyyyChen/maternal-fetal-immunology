@@ -32,9 +32,8 @@ Finally, the maternal-fetal interface suggests that evolution has already solved
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/CTLA4IDO.png" | relative_url }}" alt="CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface">
+<p>CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface. From Boulanger et al., 2024 [<a href="#ref-boulanger2024">1</a>]</p>
 </div>
-
-*CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface. From Boulanger et al., 2024.*
 
 ---
 
@@ -56,12 +55,26 @@ For millions of years, the female immune system evolved under a constraint the m
 
 **Approximately 80% of autoimmune disease patients are women.** For decades, this disparity was vaguely attributed to the presence of estrogen as a general proliferative agent for immune cells (most innate and adaptive immune cells including macrophages, dendritic cells, T cells, and B cells have estrogen receptors), and researchers largely left it at that. The emerging picture is more specific and much more interesting. What if the same heightened immune reactivity that makes the female immune system better at tolerating a fetus — and better at fighting pathogens — also makes it more prone to self-reactivity? The evolutionary tradeoff that pregnancy imposed on the female immune system may also underlie the striking female bias in rheumatoid arthritis (1M:3F), multiple sclerosis (1M:4F), lupus (1M:9F), and Sjögren's syndrome (1M:19F).
 
-Pregnancy itself offers some of the most compelling evidence for this connection. Symptoms of rheumatoid arthritis frequently **improve during the second trimester**, when Tregs and anti-inflammatory cytokines are at peak abundance, and **flare in the postpartum period** when those systems are dismantled. MS relapse rates typically drop during pregnancy and spike after delivery. These could be the signature of the same trimester-by-trimester immune shifts described in Part 2 playing out systemically rather than locally.
+Pregnancy itself offers some of the most compelling evidence for this connection. Symptoms of rheumatoid arthritis frequently **improve during the second trimester**, when Tregs and anti-inflammatory cytokines are at peak abundance, and **flare in the postpartum period** when those systems are dismantled. MS relapse rates typically drop during pregnancy and spike after delivery. These could be the signature of the same trimester-by-trimester immune shifts described in [Part 2]({{ '/learn/part2/' | relative_url }}) playing out systemically rather than locally.
 
 **Fetal microchimerism** adds another layer. Small numbers of fetal cells enter maternal circulation during pregnancy and can persist in maternal tissues for decades — fetal DNA has been found in the maternal brain 30 years after pregnancy. The immune system must continue tolerating these persisting cells, meaning the immunological paradox of pregnancy extends beyond birth. Some evidence suggests that unusual accumulations of fetal microchimeric cells in specific organs are associated with autoimmune diseases targeting those organs. While this is still a hypothesis, it is exactly the kind of groundbreaking theory open for a new generation of researchers to investigate.
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/FetalCellTrafficking.png" | relative_url }}" alt="Fetal cell trafficking during pregnancy">
+<p>Fetal cell trafficking to the mother begins at 4–6 weeks in humans and can persist for up to 27 years. Adapted from Cómitre-Mariano et al., 2022 [<a href="#ref-comitremariano2022">2</a>]</p>
 </div>
 
-*Fetal cell trafficking to the mother begins at 4–6 weeks in humans and can persist for up to 27 years. Adapted from Comitre-Mariano et al., 2021.*
+---
+
+## References
+
+<ol class="references">
+<li id="ref-boulanger2024">Boulanger, H. et al. Immunologic aspects of preeclampsia. <em>AJOG Global Reports</em> <strong>4</strong>, 100321 (2024).</li>
+<li id="ref-comitremariano2022">Cómitre-Mariano, B. et al. Feto-maternal microchimerism: Memories from pregnancy. <em>iScience</em> <strong>25</strong> (2022).</li>
+</ol>
+
+{% include part-nav.html
+   prev_url="/learn/part4/"
+   prev_title="When Tolerance Breaks Down"
+   next_url="/learn/part6/"
+   next_title="Frontiers & Why We Need You" %}

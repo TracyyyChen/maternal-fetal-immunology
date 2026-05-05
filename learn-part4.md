@@ -32,7 +32,7 @@ Beyond its acute presentation, PE has profound long-term consequences. Women wit
 
 Current management is largely supportive: antihypertensives to control blood pressure, magnesium sulfate for seizure prophylaxis. **The only definitive treatment is delivery of the placenta** — which is not a biological cure, but removal of the inciting organ. It does not reverse maternal endothelial dysfunction or eliminate long-term cardiometabolic risk.
 
-Although the pathogenesis of PE remains incompletely mapped, new evidence points to defective placentation — specifically, incomplete spiral artery remodeling — as the origin. As described in Part 2, placentation occurs within an immune-rich microenvironment. Leukocytes constitute 30–40% of decidual cells in early gestation, with decidual NK cells (~70%), macrophages (~20%), and T cells (~10%) adopting tissue-specific phenotypes that enable implantation and placentation. Disruption of immune function in the decidua can impair placentation, providing a direct link between immune dysregulation and placental malperfusion in PE.
+Although the pathogenesis of PE remains incompletely mapped, new evidence points to defective placentation — specifically, incomplete spiral artery remodeling — as the origin. As described in [Part 2]({{ '/learn/part2/' | relative_url }}), placentation occurs within an immune-rich microenvironment. Leukocytes constitute 30–40% of decidual cells in early gestation, with decidual NK cells (~70%), macrophages (~20%), and T cells (~10%) adopting tissue-specific phenotypes that enable implantation and placentation. Disruption of immune function in the decidua can impair placentation, providing a direct link between immune dysregulation and placental malperfusion in PE.
 
 Emerging theories propose that **impaired immune tolerance precedes and may even cause vascular dysfunction**. Epidemiological observations support this: the risk of PE increases from ~4.1% in a first pregnancy to ~14.7% after a prior PE, and to ~31.9% after two consecutive preeclamptic pregnancies, suggesting an immunological memory. When a pregnancy occurs with a new partner following prior uncomplicated pregnancies, the risk of PE increases by approximately 30%. Conversely, when a pregnancy following PE occurs with a different partner, subsequent risk is reduced — patterns consistent with immune tolerance to paternal alloantigens as an upstream event.
 
@@ -44,15 +44,14 @@ If that reframing is correct, preeclampsia becomes not just a pregnancy complica
 
 ## Case study: Preterm birth
 
-Preterm birth is the leading cause of neonatal death and long-term disability worldwide. Approximately 15 million babies are born preterm annually, and immune dysfunction — specifically, **premature activation of the third-trimester inflammatory shift** described in Part 2 — is implicated in a large fraction of cases.
+Preterm birth is the leading cause of neonatal death and long-term disability worldwide. Approximately 15 million babies are born preterm annually, and immune dysfunction — specifically, **premature activation of the third-trimester inflammatory shift** described in [Part 2]({{ '/learn/part2/' | relative_url }}) — is implicated in a large fraction of cases.
 
 The most well-characterized trigger is intrauterine infection. When bacteria ascend from the vaginal microbiome into the uterine cavity, innate immune sensors on decidual and myometrial cells detect bacterial products and mount an inflammatory response, releasing prostaglandins, matrix metalloproteinases, and pro-inflammatory cytokines that activate the labor cascade — only weeks or months too early. Adaptive immune cells are also hypothesized to participate, with alterations in their tolerance-maintaining function potentially leading to preterm labor. Immune cells that bridge the innate and adaptive systems — naturally killer T (NKT) cells and dendritic cells (DCs) — also appear to participate in the pathophysiology.
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TLPTL.png" | relative_url }}" alt="Innate and adaptive immune cells in term vs. preterm labor">
+<p>Schematic of innate and adaptive immune cells at the maternal-fetal interface in term labor (TL) and preterm labor (PTL). From Gomez-Lopez et al., 2014 [<a href="#ref-gomezlopez2014">1</a>]</p>
 </div>
-
-*Schematic of innate and adaptive immune cells at the maternal-fetal interface in term labor (TL) and preterm labor (PTL). From Gomez-Lopez et al.*
 
 ---
 
@@ -67,3 +66,17 @@ This is exactly why **disease-modifying therapies matter so much**, and why the 
 According to Dr. Ai-ris Yonekura Collier, a clinician-scientist specializing in maternal-fetal medicine at Beth Israel Deaconess Medical Center and Professor of Reproductive Biology at Harvard Medical School, the field is, in a real sense, "trial-ready." Bench discoveries are beginning to move to the bedside: sFlt-1, a circulating biomarker of placental stress, is now being used clinically to predict preeclampsia severity and guide delivery timing. The concept of transplacental antibody transfer has become mainstream through maternal vaccine programs targeting RSV and influenza, and is now being actively explored as a platform for engineered antibody therapies that protect the newborn by immunizing the mother.
 
 The infrastructure, the interest, and increasingly the biological understanding are converging. What the field now needs is a generation of researchers who can speak both immunology and obstetrics. **This is where you come in.**
+
+---
+
+## References
+
+<ol class="references">
+<li id="ref-gomezlopez2014">Gomez-Lopez, N., StLouis, D., Lehr, M. A., Sanchez-Rodriguez, E. N. & Arenas-Hernandez, M. Immune cells in term and preterm labor. <em>Cellular &amp; Molecular Immunology</em> <strong>11</strong>, 571–581 (2014).</li>
+</ol>
+
+{% include part-nav.html
+   prev_url="/learn/part3/"
+   prev_title="Model Systems"
+   next_url="/learn/part5/"
+   next_title="Applications Beyond Pregnancy" %}

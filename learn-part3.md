@@ -19,10 +19,9 @@ The logic is straightforward. In a healthy person going about their day, toleran
 In the study of immunology, two model systems have dominated the field: cancer and autoimmunity. Each has been extraordinarily productive, and each has also left important questions unanswered. In this section, we aim to understand what these models have taught us and where they may fall short — and then to appreciate another model system that has been hiding in plain sight.
 
 <div class="figure-wrap">
-<img src="{{ "/assets/images/PlacentaTumorTransplant.jpg" | relative_url }}" alt="Similarities between placenta, tumor, and transplant models">
+<img src="{{ "/assets/images/PlacentaTumorTransplant.png" | relative_url }}" alt="Similarities between placenta, tumor, and transplant models">
+<p>Similarities between placenta, tumor, and transplant models. From Boulanger et al., 2024</p>
 </div>
-
-*Similarities between placenta, tumor, and transplant models. From Boulanger et al., "Immunologic aspects of pregnancy," 2024.*
 
 ---
 
@@ -34,6 +33,7 @@ For most of the 20th century, immunologists recognized that tumors expressed abn
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/Dm3O1D8EMQk" title="Checkpoint Inhibitors as Cancer Treatment" frameborder="0" allowfullscreen></iframe>
+<p>Video: Checkpoint inhibitors as a cancer treatment (Cancer Research UK)</p>
 </div>
 
 This insight was transformative not just for cancer biology, but for the entire field of immunology. The discovery of checkpoint molecules that tumors hijack — like PD-1, CTLA-4, and others — turned out to be fundamental regulators of immune activation in both health and disease. **Checkpoint blockade immunotherapy**, now approved to treat dozens of cancers and having saved hundreds of thousands of lives, was built entirely on this mechanistic understanding. Cancer gave immunologists a system in which tolerance mechanisms were overactive, manipulatable, and clinically relevant — and the field learned enormously from it.
@@ -57,3 +57,9 @@ Pregnancy is the only known instance in mammalian biology where the immune syste
 Unlike cancer or autoimmunity, pregnancy is not a disease. It is a normal biological process, which means the tolerance mechanisms it employs are not compensatory — they are the immune system operating as designed, doing something it has been evolutionarily optimized to do for hundreds of millions of years. The maternal-fetal interface has had longer to perfect immune evasion than any individual tumor. The Treg populations there are more abundant and more suppressive than in almost any other physiological context. The molecular toolkit that trophoblasts deploy represents millions of years of optimization.
 
 Medawar asked his question in 1953 and framed it as a paradox. It is worth reframing it here as an opportunity. Pregnancy is one of the most sophisticated immunological systems in all of biology, hiding in plain sight, occurring in half the human population, studied by a fraction of the researchers it deserves. The scientists who take it seriously are beginning to find that the answers it contains reach far beyond obstetrics — into cancer immunotherapy, transplant medicine, autoimmune disease, and the fundamental biology of how the immune system decides what to destroy and what to protect. That field is what this course is inviting you into.
+
+{% include part-nav.html
+   prev_url="/learn/part2/"
+   prev_title="The Immunological Puzzle of Pregnancy"
+   next_url="/learn/part4/"
+   next_title="When Tolerance Breaks Down" %}

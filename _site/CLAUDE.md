@@ -32,21 +32,26 @@ This is a Jekyll static site using the [Minimal Mistakes](https://github.com/mmi
 
 **CSS** lives in `assets/css/main.scss`. It imports the Minimal Mistakes theme first, then adds all custom overrides. Notable patterns:
 - Fonts: Lora (headings) + Nunito Sans (body/sidebar/nav) via Google Fonts
-- Color palette: coral `#C97C5D` for buttons, teal `#5F8F8B` for links
-- Decorative corner illustrations use `body::before` / `body::after` CSS pseudo-elements with `background-image`, scoped by `body.layout--splash` vs default
+- Color palette: coral `#C97C5D` for buttons, teal `#5F8F8B` for links, warm cream `#fffaf5` for body background
+- Decorative corner illustrations use `body::before` CSS pseudo-elements with `background-image`. The default applies to all pages; per-page overrides are scoped using body classes (`body.layout--single`, `body.page--blog`, `body.page--about`, `body.page--resources`)
 - `.video-wrap` and `.figure-wrap` are utility classes for embedded YouTube iframes and figures in content pages
+- `.section-nav` is a mobile-only jump-link bar (hidden above 1024px, shown below where the sidebar collapses)
 
 **Images** are in `assets/images/`. Slide illustrations for corner decorations are in `assets/images/background_options/`.
 
-**Custom footer** is in `_includes/footer.html` — this overrides the theme default to fix a broken link.
+**Custom includes**: `_includes/footer.html` overrides the theme footer. `_includes/head/custom.html` injects the favicon link into `<head>`.
+
+**Page-specific body classes** are set via the `classes` front matter key (e.g. `classes: page--blog`). This is how per-page background images are scoped in CSS.
+
+**Blog and About pages** (`blog.md`, `about.md`) also use sidebars: `sidebar: nav: "blog"` and `sidebar: nav: "about"` respectively, defined in `_data/navigation.yml`.
 
 ## Key Conventions
 
-**Image paths in markdown** must use the `relative_url` filter to work on GitHub Pages:
+**Image paths** must use the `relative_url` filter to work on GitHub Pages — this applies to both markdown syntax and `<img>` tags inside HTML blocks:
 ```liquid
 {{ "/assets/images/filename.png" | relative_url }}
 ```
-Plain `/assets/images/...` paths will break on the deployed site due to the `/maternal-fetal-immunology` baseurl.
+Plain `/assets/images/...` paths will break on the deployed site due to the `/maternal-fetal-immunology` baseurl. Jekyll processes Liquid in all `.md` files, so the filter works inside inline HTML too.
 
 **CSS paths** (in `main.scss`) use relative paths from the CSS file location:
 ```css

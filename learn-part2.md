@@ -10,7 +10,10 @@ sidebar:
 <a href="#the-paradox-at-the-heart-of-pregnancy">The paradox at the heart of pregnancy</a> · <a href="#the-uterus-as-an-immune-organ">The uterus as an immune organ</a> · <a href="#the-placentas-immune-toolkit">The placenta's immune toolkit</a> · <a href="#a-trimester-by-trimester-immune-story">A trimester-by-trimester immune story</a>
 </div>
 
-![Peter Medawar and the immunological paradox of pregnancy]({{ "/assets/images/Medawar.png" | relative_url }})
+<div class="figure-wrap">
+<img src="{{ "/assets/images/Medawar.png" | relative_url }}" alt="Peter Medawar and the immunological paradox of pregnancy">
+<p>Peter Medawar and the immunological paradox of pregnancy</p>
+</div>
 
 ## The paradox at the heart of pregnancy
 
@@ -18,7 +21,7 @@ To appreciate how strange pregnancy is immunologically, start with the idea of o
 
 In 1953, a British immunologist named **Peter Medawar** posed what became one of biology's most famous questions: how does the pregnant female tolerate the genetically foreign fetus? A fetus inherits half its DNA from its father, which means half its surface proteins (its MHC molecules, the same ones that trigger transplant rejection) are paternal and therefore potentially foreign to the mother. By every rule the immune system follows, the fetus should look like a poorly matched organ transplant, renewed with every pregnancy. And yet, in healthy pregnancies, it isn't rejected. Medawar himself proposed three hypotheses: that the uterus is immunologically privileged (separated from the immune system), that the fetus somehow masks its foreign antigens, or that the mother's immune system is broadly suppressed during pregnancy. Decades of research have shown that none of these is quite right — and that the true answer is far more interesting than any of them.
 
-What we now understand is that pregnancy isn't a state of immune suppression or ignorance. It's a state of **active, exquisitely regulated tolerance**. The maternal immune system knows the fetus is there. It sees the paternal antigens. And rather than attacking or ignoring, it makes a controlled decision to stand down, deploying the very tolerance mechanisms you learned in Part 1, but in a targeted, localized, and dynamic way. The uterus becomes a specialized immunological niche. The placenta actively negotiates with maternal immune cells. Tregs accumulate specifically in response to paternal antigens. This is effectively molecular diplomacy, orchestrated on a scale that still humbles researchers today. The question Medawar asked in 1953 is still not fully answered. That gap is where the science gets exciting — and where new researchers are needed.
+What we now understand is that pregnancy isn't a state of immune suppression or ignorance. It's a state of **active, exquisitely regulated tolerance**. The maternal immune system knows the fetus is there. It sees the paternal antigens. And rather than attacking or ignoring, it makes a controlled decision to stand down, deploying the very tolerance mechanisms you learned in [Part 1]({{ '/learn/part1/' | relative_url }}), but in a targeted, localized, and dynamic way. The uterus becomes a specialized immunological niche. The placenta actively negotiates with maternal immune cells. Tregs accumulate specifically in response to paternal antigens. This is effectively molecular diplomacy, orchestrated on a scale that still humbles researchers today. The question Medawar asked in 1953 is still not fully answered. That gap is where the science gets exciting — and where new researchers are needed.
 
 ---
 
@@ -32,6 +35,7 @@ What makes the decidua truly remarkable is that it is a niche the body construct
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TrophoblastImmuneInteraction.png" | relative_url }}" alt="Interactions between fetal trophoblasts and maternal immune cells at the decidua">
+<p>Reproduced from Liu et al., 2017 [<a href="#ref-liu2017">1</a>]</p>
 </div>
 
 ---
@@ -42,20 +46,25 @@ When the embryo implants, it sends out an invasion force. Specialized cells call
 
 This invasion creates direct, intimate contact between fetal cells and maternal immune cells — exactly the kind of contact that would normally trigger a rejection response. What prevents it is not chance. The trophoblasts arrive pre-armed with a remarkable molecular toolkit, each component specifically designed to neutralize a different arm of the maternal immune system.
 
-The most studied of these tools is **HLA-G**. You'll remember from Part 1 that MHC proteins (called HLA proteins in humans) are the surface tags that T cells use to distinguish self from non-self. Normal fetal cells express paternal HLA proteins that could be recognized as foreign. Trophoblasts, remarkably, suppress most of these and instead display HLA-G — a non-classical MHC molecule almost exclusive to the placenta. HLA-G doesn't trigger rejection. Instead, it directly engages inhibitory receptors on uterine NK cells and macrophages, essentially sending a "stand down" signal. It also promotes the generation of more Tregs locally, adding another layer of suppression.
+The most studied of these tools is **HLA-G**. You'll remember from [Part 1]({{ '/learn/part1/' | relative_url }}) that MHC proteins (called HLA proteins in humans) are the surface tags that T cells use to distinguish self from non-self. Normal fetal cells express paternal HLA proteins that could be recognized as foreign. Trophoblasts, remarkably, suppress most of these and instead display HLA-G — a non-classical MHC molecule almost exclusive to the placenta. HLA-G doesn't trigger rejection. Instead, it directly engages inhibitory receptors on uterine NK cells and macrophages, essentially sending a "stand down" signal. It also promotes the generation of more Tregs locally, adding another layer of suppression.
 
 On top of this, trophoblasts regulate the **complement system** (a cascade of blood proteins that normally punch holes in foreign cells) by expressing complement regulatory proteins that shield themselves from destruction. And they express **immune checkpoint molecules** — proteins like PD-L1, the same pathway exploited by some cancer cells to evade immunity — that switch off activated T cells on contact. Together, these mechanisms actively reprogram the immune cells that encounter the placenta.
 
 What makes this system so scientifically fascinating is that it works at the interface of two different organisms, in real time, across the entire length of pregnancy. Critically, when this negotiation breaks down — when HLA-G signaling is insufficient, complement regulation fails, or checkpoint molecules are dysregulated — the consequences can be severe: miscarriage, preeclampsia, and fetal growth restriction. The placenta's immune toolkit is the molecular basis for why pregnancy succeeds at all.
 
-![Interactions between fetal trophoblasts and maternal immune cells]({{ "/assets/images/Trophoblasts.png" | relative_url }})
-*Interactions between fetal trophoblasts and maternal immune cells. Adapted from S Liu et al., 2017.*
+<div class="figure-wrap">
+<img src="{{ "/assets/images/Trophoblasts.png" | relative_url }}" alt="Interactions between fetal trophoblasts and maternal immune cells">
+<p>Interactions between fetal trophoblasts and maternal immune cells. Adapted from Liu et al., 2017 [<a href="#ref-liu2017">1</a>]</p>
+</div>
 
 ---
 
 ## A trimester-by-trimester immune story
 
-![Immune system changes across trimesters]({{ "/assets/images/TrimesterImmunology.png" | relative_url }})
+<div class="figure-wrap">
+<img src="{{ "/assets/images/TrimesterImmunology.png" | relative_url }}" alt="Immune system changes across trimesters">
+<p>Shifts in the maternal immune system across the three trimesters of pregnancy</p>
+</div>
 
 One of the most elegant and underappreciated facts about pregnancy is that the maternal immune system doesn't simply adopt a single fixed state and hold it for nine months. Instead, it shifts through three distinct immunological phases timed to match what the pregnancy needs at that moment. This idea was formalized by immunologist **Gil Mor**, who proposed that pregnancy is not a state of immune tolerance but a dynamic, carefully orchestrated sequence of immune states: successful pregnancy requires inflammation, then tolerance, then inflammation again. Each phase, if it fails to occur or occurs at the wrong time, is associated with a specific category of pregnancy complication.
 
@@ -64,3 +73,17 @@ One of the most elegant and underappreciated facts about pregnancy is that the m
 **The second trimester** is the immunologically quietest phase, characterized by profound tolerance. Tregs are at their peak abundance. Anti-inflammatory cytokines dominate the uterine environment. The fetus is growing rapidly, the placenta is established, and the immune system's job is largely to maintain the status quo. This is often what people imagine when they think of "immune suppression" during pregnancy — though suppression isn't the right descriptor, since the immune system remains fully capable of fighting infections. It's better described as a period of actively maintained peace.
 
 **The third trimester** sees the immune system begin shifting back toward inflammation in preparation for labor. Pro-inflammatory cytokines rise, immune cell populations in the myometrium increase, and the cervix undergoes an inflammatory-driven softening process called ripening. Labor itself is an inflammatory event — contractions, membrane rupture, and placental delivery are all driven in part by the same molecular signals that drive any tissue-clearing immune response. When this late-pregnancy inflammatory shift occurs prematurely, the result is preterm labor, one of the leading causes of neonatal mortality worldwide and a condition whose immunological roots are still being actively researched.
+
+---
+
+## References
+
+<ol class="references">
+<li id="ref-liu2017">Liu, S., Diao, L., Huang, C., Li, Y. et al. The role of decidual immune cells on human pregnancy. <em>Journal of Reproductive Immunology</em> (2017). <a href="https://doi.org/10.1016/j.jri.2017.10.045" target="_blank" rel="noopener">https://doi.org/10.1016/j.jri.2017.10.045</a></li>
+</ol>
+
+{% include part-nav.html
+   prev_url="/learn/part1/"
+   prev_title="Immunology Foundations"
+   next_url="/learn/part3/"
+   next_title="Model Systems" %}

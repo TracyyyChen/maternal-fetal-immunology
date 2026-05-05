@@ -12,28 +12,42 @@ sidebar:
 
 ## Cutting-edge research at the maternal-fetal interface
 
-The following researchers are working at the frontiers of maternal-fetal immunology. Their interviews will be featured here.
+The following researchers are working at the frontiers of maternal-fetal immunology. Read the full interviews on our [Blog & Interviews]({{ '/blog/' | relative_url }}) page.
 
 ---
 
-**Ines Zalosnik** — Postdoc, Huh Lab
-*Maternal immune activation and autism*
-
-[Interview coming soon]
-
----
-
-**Shanshan Zhang** — Postdoc, Huh Lab
-*Interactions between maternal and fetal immune cells*
-
-[Interview coming soon]
+<div class="researcher-card">
+  <img src="{{ '/assets/images/Ines.jpeg' | relative_url }}" alt="Ines Zalosnik" class="researcher-photo">
+  <div class="researcher-info">
+    <h3>Ines Zalosnik, Ph.D.</h3>
+    <p class="researcher-affiliation">Postdoc, Huh Lab</p>
+    <p class="researcher-topic">Maternal immune activation and fetal neurodevelopment</p>
+    <p class="researcher-status"><a href="{{ '/blog/#ines-zalosnik' | relative_url }}">Read the interview →</a></p>
+  </div>
+</div>
 
 ---
 
-**Dr. Ai-Ris Yonekura Collier** — OB-GYN and Maternal-Fetal Medicine Specialist, Beth Israel Deaconess Medical Center; Professor of Reproductive Biology, Harvard Medical School
-*Immune dysregulation in preeclampsia and transplacental antibody transfer*
+<div class="researcher-card">
+  <img src="{{ '/assets/images/Shanshan.jpeg' | relative_url }}" alt="Shanshan Zhang" class="researcher-photo">
+  <div class="researcher-info">
+    <h3>Shanshan Zhang, Ph.D.</h3>
+    <p class="researcher-affiliation">Postdoc, Huh Lab</p>
+    <p class="researcher-topic">Interactions between maternal and fetal immune cells</p>
+    <p class="researcher-status"><a href="{{ '/blog/#shanshan-zhang' | relative_url }}">Read the interview →</a></p>
+  </div>
+</div>
 
-[Interview coming soon]
+---
+
+<div class="researcher-card">
+  <div class="researcher-info">
+    <h3>Dr. Ai-Ris Yonekura Collier</h3>
+    <p class="researcher-affiliation">OB-GYN and Maternal-Fetal Medicine Specialist, Beth Israel Deaconess Medical Center; Professor of Reproductive Biology, Harvard Medical School</p>
+    <p class="researcher-topic">Immune dysregulation in preeclampsia and transplacental antibody transfer</p>
+    <p class="researcher-status"><em>Interview coming soon</em></p>
+  </div>
+</div>
 
 ---
 
@@ -66,4 +80,8 @@ If you are a student reading this, you are entering a field at the precise momen
 
 ---
 
-*Ready to get involved? Visit our [Resources](/resources/) page for training programs, professional societies, and key papers.*
+*Ready to get involved? Visit our [Resources]({{ '/resources/' | relative_url }}) page for training programs, professional societies, and key papers.*
+
+{% include part-nav.html
+   prev_url="/learn/part5/"
+   prev_title="Applications Beyond Pregnancy" %}

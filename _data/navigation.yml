@@ -97,6 +97,14 @@ resources:
         url: /resources/#reviews
       - title: "New Studies"
         url: /resources/#new-studies
+      - title: "Pregnancy Complications"
+        url: /resources/#pregnancy-complications
+      - title: "Maternal-Fetal Immunology"
+        url: /resources/#maternal-fetal-immunology
+      - title: "Applications Beyond Pregnancy"
+        url: /resources/#applications-beyond-pregnancy
+      - title: "OB-GYN as a Field"
+        url: /resources/#ob-gyn-as-a-field
   - title: "Videos & Extra Learning"
     url: /resources/#videos--extra-learning
 

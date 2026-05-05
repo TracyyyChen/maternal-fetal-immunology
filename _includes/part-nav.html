@@ -1,0 +1,19 @@
+<nav class="part-nav" aria-label="Course navigation">
+  {% if include.prev_url %}
+    <a class="part-nav__link part-nav__prev" href="{{ include.prev_url | relative_url }}">
+      <span class="part-nav__direction">← Previous</span>
+      <span class="part-nav__title">{{ include.prev_title }}</span>
+    </a>
+  {% else %}
+    <span class="part-nav__link part-nav__placeholder"></span>
+  {% endif %}
+
+  {% if include.next_url %}
+    <a class="part-nav__link part-nav__next" href="{{ include.next_url | relative_url }}">
+      <span class="part-nav__direction">Next →</span>
+      <span class="part-nav__title">{{ include.next_title }}</span>
+    </a>
+  {% else %}
+    <span class="part-nav__link part-nav__placeholder"></span>
+  {% endif %}
+</nav>

@@ -14,6 +14,7 @@ sidebar:
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/PzunOgYHeyg" title="What is the immune system?" frameborder="0" allowfullscreen></iframe>
+<p>Video: What is the immune system?</p>
 </div>
 
 Your body is constantly under siege. Every time you breathe, eat, or touch a surface, you're exposed to bacteria, viruses, fungi, and other microorganisms that would happily use your cells as a home and food source. The immune system is your body's defense network — a remarkable collection of cells, proteins, and organs whose job is to tell the difference between you and not you, and to destroy anything that doesn't belong. This idea, called **self vs. non-self recognition**, is the single most important concept in immunology. Every cell in your body carries a molecular ID tag on its surface (made of proteins called MHC molecules) that essentially says "I belong here." Immune cells constantly scan for these tags — anything without the right tag is treated as a potential threat.
@@ -24,6 +25,7 @@ These two systems talk to each other constantly. Together, they make up a system
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/InnateAdaptiveImmunity.png" | relative_url }}" alt="Innate and adaptive immunity overview">
+<p>Overview of the innate and adaptive arms of the immune system</p>
 </div>
 
 ---
@@ -32,6 +34,7 @@ These two systems talk to each other constantly. Together, they make up a system
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/rIrjO3q4Y9c" title="How the immune system recognizes threats" frameborder="0" allowfullscreen></iframe>
+<p>Video: How the immune system recognizes threats</p>
 </div>
 
 Imagine the immune system as a highly trained security force that has to distinguish between millions of possible intruders. It does this using shape. Every molecule in your body has a three-dimensional structure, and the immune system is exquisitely sensitive to shapes it doesn't recognize. These foreign molecular shapes are called **antigens**. Specialized cells called **dendritic cells** and macrophages are constantly patrolling your tissues, and when they encounter something suspicious, they engulf it, break it into fragments, and display those fragments on their surface like wanted posters. This act, called **antigen presentation**, is the critical handoff from the innate system to the adaptive one.
@@ -42,6 +45,7 @@ Those "wanted posters" are recognized by T cells. Each T cell carries a unique r
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TBCellsInfections.png" | relative_url }}" alt="T and B cells in infection response">
+<p>How T cells and B cells coordinate the adaptive immune response to infection</p>
 </div>
 
 ---
@@ -50,10 +54,12 @@ Those "wanted posters" are recognized by T cells. Each T cell carries a unique r
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Immune tolerance" frameborder="0" allowfullscreen></iframe>
+<p>Video: Immune tolerance</p>
 </div>
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Regulatory T cells" frameborder="0" allowfullscreen></iframe>
+<p>Video: Regulatory T cells (Tregs)</p>
 </div>
 
 The immune system faces a fundamental design problem: it needs to be aggressive enough to destroy pathogens, but restrained enough not to destroy the body it's protecting. The solution is **tolerance**: a set of mechanisms that teach immune cells to ignore "self" antigens. The first layer happens in the thymus, where T cells are born and educated through a process called **central tolerance**. Immature T cells are exposed to samples of the body's own proteins — if a T cell reacts too strongly, it gets deleted. This **clonal deletion** eliminates roughly 95% of all T cells produced. Only cells that are functional but non-reactive to self survive.
@@ -64,4 +70,9 @@ Tregs are going to be central characters for the rest of this course. They are t
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/Tolerance.png" | relative_url }}" alt="Mechanisms of immune tolerance">
+<p>Central and peripheral mechanisms that maintain immune tolerance to self</p>
 </div>
+
+{% include part-nav.html
+   next_url="/learn/part2/"
+   next_title="The Immunological Puzzle of Pregnancy" %}

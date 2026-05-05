@@ -5336,6 +5336,14 @@ body {
   padding-top: 2em;
 }
 
+.feature__item {
+  background-color: rgba(255, 255, 255, 0.72);
+  border-radius: 10px;
+  padding: 1.2em 1.4em 1.5em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  margin-bottom: 1.2em;
+}
+
 .feature__item p {
   font-size: 0.88rem;
 }
@@ -5343,7 +5351,7 @@ body {
 /* Contact form */
 .contact-form {
   max-width: 540px;
-  margin-top: 1.5em;
+  margin: 1.5em auto 0;
 }
 
 .contact-form__field {
@@ -5501,6 +5509,9 @@ body.page--resources::before {
 .masthead {
   background-color: #fff; /* ← navbar background */
   border-bottom: 1px solid #ece8e4;
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
 
 .masthead__inner-wrap {
@@ -5557,7 +5568,7 @@ body.page--resources::before {
 
 .video-wrap iframe {
   display: block;
-  width: 100%;
+  width: 80%;
   aspect-ratio: 16/9;
   border: 0;
 }
@@ -5569,10 +5580,199 @@ body.page--resources::before {
 }
 
 .figure-wrap img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+.figure-wrap p,
+.video-wrap p,
+.video-grid p {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin: 0.5em auto 0;
+  max-width: 80%;
+}
+
+/* Video grid for resources page */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5em;
+  margin-top: 1em;
+}
+
+.video-grid .video-wrap {
+  margin: 0;
+  max-width: 100%;
+}
+
+.video-grid .video-wrap iframe {
+  width: 100%;
+  margin: 0;
+}
+
+.video-grid p {
+  max-width: 100%;
+  margin-top: 0.4em;
+}
+
+/* References */
+.references {
+  font-size: 0.9em;
+  padding-left: 1.5em;
+  line-height: 1.6;
+}
+
+.references li {
+  margin-bottom: 0.75em;
+}
+
+.references li:target {
+  background-color: #fff3e0;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+}
+
+/* Prev/next part navigation */
+.part-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  margin: 3em 0 1em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e5e0d8;
+}
+
+.part-nav__link {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  max-width: 48%;
+  padding: 0.75em 1em;
+  border-radius: 8px;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.6);
+  border: 1px solid #e5e0d8;
+  transition: background-color 0.15s, border-color 0.15s;
+}
+
+.part-nav__link:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-color: #5F8F8B;
+  text-decoration: none;
+}
+
+.part-nav__next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.part-nav__direction {
+  font-size: 0.8em;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.part-nav__title {
+  font-size: 0.95em;
+  color: #5F8F8B;
+  font-weight: 600;
+  margin-top: 0.2em;
+}
+
+.part-nav__placeholder {
+  background: none;
+  border: none;
+  visibility: hidden;
+}
+
+/* Researcher cards (Part 6 interviews) */
+.researcher-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25em;
+  margin: 1.5em 0;
+}
+
+.researcher-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.researcher-card--large {
+  align-items: center;
+  gap: 1.75em;
+  margin: 2em 0 1.5em;
+  background-color: rgba(255, 255, 255, 0.72);
+  border-radius: 10px;
+  padding: 1.5em 1.75em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  width: fit-content;
+  max-width: 100%;
+}
+
+.researcher-card--large .researcher-photo {
+  width: 130px;
+  height: 130px;
+}
+
+.researcher-card--large .researcher-info h2 {
+  font-size: 1.6em;
+  margin: 0 0 0.2em;
+}
+
+.researcher-card--large .researcher-affiliation {
+  font-size: 1em;
+}
+
+.researcher-card--large .researcher-topic {
+  font-size: 0.95em;
+}
+
+.researcher-info {
+  flex: 1;
+}
+
+.researcher-info h3 {
+  font-size: 1.25em;
+  margin: 0 0 0.15em;
+}
+
+.researcher-affiliation {
+  font-size: 0.95em;
+  color: #555;
+  margin: 0 0 0.25em;
+}
+
+.researcher-topic {
+  font-size: 0.9em;
+  color: #777;
+  font-style: italic;
+  margin: 0 0 0.5em;
+}
+
+.researcher-status {
+  font-size: 0.85em;
+  color: #999;
+  margin: 0;
+}
+
+/* Text selection */
+::selection {
+  background-color: #3d6b67;
+  color: #fffaf5;
+}
+
+::-moz-selection {
+  background-color: #3d6b67;
+  color: #fffaf5;
 }
 
 /*# sourceMappingURL=main.css.map */

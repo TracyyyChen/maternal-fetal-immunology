@@ -16,7 +16,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   <div style="text-align: center; width: 160px;">
     <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
+    <p style="margin: 0.5em 0 0.2em;"><strong>Sarah Syed</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
       <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
       <a href="https://YOUR-WEBSITE.com">Website</a>
@@ -26,7 +26,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   <div style="text-align: center; width: 160px;">
     <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
+    <p style="margin: 0.5em 0 0.2em;"><strong>Jackie Li</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
       <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
       <a href="https://YOUR-WEBSITE.com">Website</a>
@@ -36,7 +36,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   <div style="text-align: center; width: 160px;">
     <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
+    <p style="margin: 0.5em 0 0.2em;"><strong>Tracy Chen</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
       <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
       <a href="https://YOUR-WEBSITE.com">Website</a>
@@ -46,7 +46,7 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
   <div style="text-align: center; width: 160px;">
     <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Name</strong></p>
+    <p style="margin: 0.5em 0 0.2em;"><strong>Emma McDougal</strong></p>
     <p style="margin: 0; font-size: 0.85em;">
       <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
       <a href="https://YOUR-WEBSITE.com">Website</a>
