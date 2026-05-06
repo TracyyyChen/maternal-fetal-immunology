@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=4 title="When Tolerance Breaks Down" %}
+
 <div class="section-nav">
 <a href="#case-study-recurrent-miscarriage">Recurrent miscarriage</a> · <a href="#case-study-preeclampsia">Preeclampsia</a> · <a href="#case-study-preterm-birth">Preterm birth</a> · <a href="#ob-gyn-as-a-field-ripe-for-an-immunological-revolution">OB-GYN revolution</a>
 </div>

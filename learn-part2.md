@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=2 title="The Puzzle of Pregnancy" %}
+
 <div class="section-nav">
 <a href="#the-paradox-at-the-heart-of-pregnancy">The paradox at the heart of pregnancy</a> · <a href="#the-uterus-as-an-immune-organ">The uterus as an immune organ</a> · <a href="#the-placentas-immune-toolkit">The placenta's immune toolkit</a> · <a href="#a-trimester-by-trimester-immune-story">A trimester-by-trimester immune story</a>
 </div>

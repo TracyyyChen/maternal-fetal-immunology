@@ -11,45 +11,37 @@ This open educational website was created as part of MIT 20.365/20.465: Engineer
 
 ## Team
 
-<div style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 1em;">
+<div class="team-grid">
 
-  <div style="text-align: center; width: 160px;">
-    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Sarah Syed</strong></p>
-    <p style="margin: 0; font-size: 0.85em;">
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-      <a href="https://YOUR-WEBSITE.com">Website</a>
+  <div class="team-member">
+    <img src="{{ '/assets/images/sarah.jpeg' | relative_url }}" alt="Sarah Syed" class="team-member__photo">
+    <h3 class="team-member__name">Sarah Syed</h3>
+    <p class="team-member__link">
+      <a href="https://www.linkedin.com/in/sarahssyed1/">LinkedIn</a>
     </p>
   </div>
 
-  <div style="text-align: center; width: 160px;">
-    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Jackie Li</strong></p>
-    <p style="margin: 0; font-size: 0.85em;">
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-      <a href="https://YOUR-WEBSITE.com">Website</a>
+  <div class="team-member">
+    <img src="{{ '/assets/images/jackie.JPG' | relative_url }}" alt="Jackie Li" class="team-member__photo">
+    <h3 class="team-member__name">Jackie Li</h3>
+    <p class="team-member__link">
+      <a href="https://www.linkedin.com/in/jacqueline-li-ab672a1a4/">LinkedIn</a>
     </p>
   </div>
 
-  <div style="text-align: center; width: 160px;">
-    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Tracy Chen</strong></p>
-    <p style="margin: 0; font-size: 0.85em;">
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-      <a href="https://YOUR-WEBSITE.com">Website</a>
+  <div class="team-member">
+    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Tracy Chen" class="team-member__photo">
+    <h3 class="team-member__name">Tracy Chen</h3>
+    <p class="team-member__link">
+      <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
     </p>
   </div>
 
-  <div style="text-align: center; width: 160px;">
-    <img src="{{ '/assets/images/placeholder.png' | relative_url }}" alt="Team member photo"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p style="margin: 0.5em 0 0.2em;"><strong>Emma McDougal</strong></p>
-    <p style="margin: 0; font-size: 0.85em;">
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-      <a href="https://YOUR-WEBSITE.com">Website</a>
+  <div class="team-member">
+    <img src="{{ '/assets/images/emma.jpeg' | relative_url }}" alt="Emma McDougal" class="team-member__photo">
+    <h3 class="team-member__name">Emma McDougal</h3>
+    <p class="team-member__link">
+      <a href="https://www.linkedin.com/in/emma-mcdougal/">LinkedIn</a>
     </p>
   </div>
 

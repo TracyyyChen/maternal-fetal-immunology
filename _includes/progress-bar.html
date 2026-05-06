@@ -1,0 +1,11 @@
+<div class="mfi-progress">
+  <div class="mfi-progress__label">
+    <span class="mfi-progress__part">Part {{ include.part }} of 6</span>
+    <span>{{ include.title }}</span>
+  </div>
+  <div class="mfi-progress__bars">
+    {% for i in (1..6) %}
+      <div class="mfi-progress__bar {% if i <= include.part %}is-done{% endif %} {% if i == include.part %}is-active{% endif %}"></div>
+    {% endfor %}
+  </div>
+</div>

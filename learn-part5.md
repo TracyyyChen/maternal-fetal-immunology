@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=5 title="Applications Beyond Pregnancy" %}
+
 <div class="section-nav">
 <a href="#cancer">Cancer</a> · <a href="#transplant-medicine">Transplant medicine</a> · <a href="#autoimmunity">Autoimmunity</a>
 </div>

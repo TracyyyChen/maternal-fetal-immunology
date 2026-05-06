@@ -106,37 +106,37 @@ sidebar:
 
   <div>
     <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/rIrjO3q4Y9c" title="How the immune system recognizes threats" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/rIrjO3q4Y9c" title="B cells and T cells" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><em>How the immune system recognizes threats</em></p>
+    <p><em>B cells and T cells</em></p>
   </div>
 
   <div>
     <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Immune tolerance" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Peripheral T cell tolerance" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><em>Immune tolerance</em></p>
+    <p><em>Peripheral T cell tolerance</em></p>
   </div>
 
   <div>
     <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Regulatory T cells" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Central T cell tolerance" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><em>Regulatory T cells (Tregs)</em></p>
+    <p><em>Central T cell tolerance</em></p>
   </div>
 
   <div>
     <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/Dm3O1D8EMQk" title="Checkpoint Inhibitors as Cancer Treatment" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/Dm3O1D8EMQk" title="Checkpoint inhibitors" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><em>Checkpoint inhibitors as a cancer treatment</em></p>
+    <p><em>Checkpoint inhibitors</em></p>
   </div>
 
   <div>
     <div class="video-wrap">
-      <iframe src="https://www.youtube.com/embed/Pj-ybRuZBLs" title="Maternal-fetal immunology overview" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/Pj-ybRuZBLs" title="Fetal immune tolerance" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><em>Maternal-fetal immunology overview</em></p>
+    <p><em>Fetal immune tolerance</em></p>
   </div>
 
 </div>

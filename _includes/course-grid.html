@@ -1,0 +1,26 @@
+<section class="mfi-course">
+  <div class="mfi-course__head">
+    <div>
+      <div class="mfi-eyebrow">The course · 6 parts</div>
+      <h2>A path through the science</h2>
+    </div>
+    <p>
+      Built for students with no immunology background. Each part is ~15 min of
+      reading, plus videos, figures, and references.
+    </p>
+  </div>
+
+  <div class="mfi-course__grid">
+    {% assign parts = site.data.course-parts %}
+    {% for p in parts %}
+      <a class="mfi-course__card" href="{{ p.url | relative_url }}">
+        <div class="mfi-course__card-top">
+          <span class="mfi-course__card-num">Part {{ p.num }}</span>
+          <span class="mfi-course__card-arrow">↗</span>
+        </div>
+        <h3>{{ p.title }}</h3>
+        <p>{{ p.excerpt }}</p>
+      </a>
+    {% endfor %}
+  </div>
+</section>

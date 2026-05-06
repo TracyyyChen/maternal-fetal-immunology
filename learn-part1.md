@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=1 title="Immunology Foundations" %}
+
 <div class="section-nav">
 <a href="#what-is-the-immune-system">What is the immune system?</a> · <a href="#recognizing-the-enemy">Recognizing the enemy</a> · <a href="#learning-not-to-attack-yourself">Learning not to attack yourself</a>
 </div>

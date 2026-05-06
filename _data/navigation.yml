@@ -72,12 +72,17 @@ blog:
   - title: "Interviews"
     url: /blog/
     children:
+      - title: "Ai-Ris Yonekura Collier"
+        url: /blog/#ai-ris-collier
       - title: "Shanshan Zhang"
         url: /blog/#shanshan-zhang
       - title: "Ines Zalosnik"
         url: /blog/#ines-zalosnik
   - title: "Blog Posts"
     url: /blog/
+    children:
+      - title: "From the Lab to the Clinic: ACOG Reflections"
+        url: /blog/#acog-reflections
 
 about:
   - title: "About This Site"
@@ -92,19 +97,6 @@ resources:
     url: /resources/#opportunities
   - title: "Papers & Reviews"
     url: /resources/#papers--reviews
-    children:
-      - title: "Reviews"
-        url: /resources/#reviews
-      - title: "New Studies"
-        url: /resources/#new-studies
-      - title: "Pregnancy Complications"
-        url: /resources/#pregnancy-complications
-      - title: "Maternal-Fetal Immunology"
-        url: /resources/#maternal-fetal-immunology
-      - title: "Applications Beyond Pregnancy"
-        url: /resources/#applications-beyond-pregnancy
-      - title: "OB-GYN as a Field"
-        url: /resources/#ob-gyn-as-a-field
   - title: "Videos & Extra Learning"
     url: /resources/#videos--extra-learning
 

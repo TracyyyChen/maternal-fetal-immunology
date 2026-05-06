@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=6 title="Frontiers & Why We Need You" %}
+
 <div class="section-nav">
 <a href="#cutting-edge-research-at-the-maternal-fetal-interface">Cutting-edge research</a> · <a href="#open-questions-and-how-to-get-involved">Open questions & get involved</a>
 </div>
@@ -41,11 +43,12 @@ The following researchers are working at the frontiers of maternal-fetal immunol
 ---
 
 <div class="researcher-card">
+  <img src="{{ '/assets/images/Ai-Ris.jpg' | relative_url }}" alt="Ai-Ris Yonekura Collier" class="researcher-photo">
   <div class="researcher-info">
     <h3>Dr. Ai-Ris Yonekura Collier</h3>
     <p class="researcher-affiliation">OB-GYN and Maternal-Fetal Medicine Specialist, Beth Israel Deaconess Medical Center; Professor of Reproductive Biology, Harvard Medical School</p>
-    <p class="researcher-topic">Immune dysregulation in preeclampsia and transplacental antibody transfer</p>
-    <p class="researcher-status"><em>Interview coming soon</em></p>
+    <p class="researcher-topic">Integrating clinical and scientific practice</p>
+    <p class="researcher-status"><a href="{{ '/blog/#ai-ris-collier' | relative_url }}">Read the interview →</a></p>
   </div>
 </div>
 

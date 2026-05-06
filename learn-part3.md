@@ -6,6 +6,8 @@ sidebar:
   nav: "learn"
 ---
 
+{% include progress-bar.html part=3 title="Model Systems" %}
+
 <div class="section-nav">
 <a href="#why-we-need-model-systems">Why we need model systems</a> · <a href="#case-study-cancer-and-autoimmunity">Cancer & autoimmunity</a> · <a href="#why-pregnancy-deserves-a-seat-at-the-table">Why pregnancy deserves a seat at the table</a>
 </div>

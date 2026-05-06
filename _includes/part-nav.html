@@ -1,7 +1,7 @@
 <nav class="part-nav" aria-label="Course navigation">
   {% if include.prev_url %}
-    <a class="part-nav__link part-nav__prev" href="{{ include.prev_url | relative_url }}">
-      <span class="part-nav__direction">← Previous</span>
+    <a class="part-nav__link part-nav__link--prev" href="{{ include.prev_url | relative_url }}">
+      <span class="part-nav__direction">← Previous part</span>
       <span class="part-nav__title">{{ include.prev_title }}</span>
     </a>
   {% else %}
@@ -9,8 +9,8 @@
   {% endif %}
 
   {% if include.next_url %}
-    <a class="part-nav__link part-nav__next" href="{{ include.next_url | relative_url }}">
-      <span class="part-nav__direction">Next →</span>
+    <a class="part-nav__link part-nav__link--next" href="{{ include.next_url | relative_url }}">
+      <span class="part-nav__direction">Next part →</span>
       <span class="part-nav__title">{{ include.next_title }}</span>
     </a>
   {% else %}
