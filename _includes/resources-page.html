@@ -1,0 +1,27 @@
+<section class="mfi-page-header">
+  <h1 class="mfi-page-title">Where to go next.</h1>
+  <p class="mfi-page-lead">
+    Internships, papers, professional societies, and the videos we watched
+    while writing this. Curated for students who want to actually go do
+    this work.
+  </p>
+</section>
+
+<section class="mfi-resources" id="papers--reviews">
+  {% for group in site.data.resources %}
+  <div class="mfi-resources__card">
+    <div class="mfi-eyebrow">{{ group.tag }}</div>
+    <h2>{{ group.title }}</h2>
+    <ul>
+      {% for item in group.items %}
+      <li>
+        <a href="{{ item.url }}">
+          <span>{{ item.label }}</span>
+          <span class="mfi-resources__arrow">↗</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>

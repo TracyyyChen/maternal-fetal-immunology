@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Learn"
     url: /learn/part1/
-  - title: "Blog"
+  - title: "Voices"
     url: /blog/
   - title: "Resources"
     url: /resources/
@@ -75,9 +75,9 @@ blog:
       - title: "Ai-Ris Yonekura Collier"
         url: /blog/#ai-ris-collier
       - title: "Shanshan Zhang"
-        url: /blog/#shanshan-zhang
+        url: /blog/#shanshan-zhang-full
       - title: "Ines Zalosnik"
-        url: /blog/#ines-zalosnik
+        url: /blog/#ines-zalosnik-full
   - title: "Blog Posts"
     url: /blog/
     children:

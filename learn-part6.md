@@ -54,13 +54,6 @@ The following researchers are working at the frontiers of maternal-fetal immunol
 
 ---
 
-**Questions asked of each researcher:**
-- What is your research about?
-- What made you choose to work in this field?
-- What would you say to a first-year undergraduate who is drawn to immunology but has not considered pregnancy as a serious research area?
-
----
-
 ## Open questions and how to get involved
 
 Maternal-fetal immunology is one of the most consequential and least resourced fields in all of biomedical science. The conditions it studies — preeclampsia, preterm birth, recurrent miscarriage — collectively affect hundreds of millions of people and are leading causes of maternal and infant mortality worldwide. The National Institutes of Health spends roughly ten times more per patient on HIV research than on preterm birth research, despite preterm birth affecting far more people annually.

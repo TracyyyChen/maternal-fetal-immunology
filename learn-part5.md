@@ -34,7 +34,7 @@ Finally, the maternal-fetal interface suggests that evolution has already solved
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/CTLA4IDO.png" | relative_url }}" alt="CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface">
-<p>CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface. From Boulanger et al., 2024 [<a href="#ref-boulanger2024">1</a>]</p>
+<p>CTLA-4-IDO-tryptophan pathway at the maternal-fetal interface (Boulanger et al., 2024) [<a href="#ref-boulanger2024">1</a>]</p>
 </div>
 
 ---
@@ -63,7 +63,7 @@ Pregnancy itself offers some of the most compelling evidence for this connection
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/FetalCellTrafficking.png" | relative_url }}" alt="Fetal cell trafficking during pregnancy">
-<p>Fetal cell trafficking to the mother begins at 4–6 weeks in humans and can persist for up to 27 years. Adapted from Cómitre-Mariano et al., 2022 [<a href="#ref-comitremariano2022">2</a>]</p>
+<p>Fetal cell trafficking to the mother (Cómitre-Mariano et al., 2022) [<a href="#ref-comitremariano2022">2</a>]</p>
 </div>
 
 ---

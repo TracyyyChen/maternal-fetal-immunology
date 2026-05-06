@@ -1,0 +1,41 @@
+- tag: "Opportunities"
+  title: "Internships & research programs"
+  items:
+    - label: "Magee-Womens Research Institute — RSTP (undergrad)"
+      url: "https://www.mwri.magee.edu/"
+    - label: "Magee-Womens — High School Summer Internship"
+      url: "https://www.mwri.magee.edu/"
+    - label: "NIRH — Reproductive health policy internships"
+      url: "https://www.nirhealth.org/"
+    - label: "Stanford MCHRI — Drug & Device Development Training"
+      url: "https://mchri.stanford.edu/"
+
+- tag: "Societies"
+  title: "Professional societies"
+  items:
+    - label: "Society for Women's Health Research"
+      url: "https://swhr.org/"
+    - label: "Society for Maternal-Fetal Medicine (SMFM)"
+      url: "https://www.smfm.org/"
+    - label: "ACOG — American College of Obstetricians & Gynecologists"
+      url: "https://www.acog.org/"
+
+- tag: "Reviews"
+  title: "Papers & reviews to read first"
+  items:
+    - label: "Erlebacher (2013) — Immunology of the Maternal-Fetal Interface"
+      url: "https://pubmed.ncbi.nlm.nih.gov/23298207/"
+    - label: "Moffett & Colucci (2014) — uNK cells: active regulators"
+      url: "https://pubmed.ncbi.nlm.nih.gov/24590072/"
+    - label: "Liu et al. (2017) — Trophoblast–immune interactions"
+      url: "https://pubmed.ncbi.nlm.nih.gov/28867222/"
+
+- tag: "Videos"
+  title: "Videos & extra learning"
+  items:
+    - label: "What is the immune system? — Khan Academy"
+      url: "https://www.youtube.com/watch?v=PzunOgYHeyg"
+    - label: "Immune tolerance"
+      url: "https://www.youtube.com/watch?v=po9t3F5g-vk"
+    - label: "Regulatory T cells (Tregs)"
+      url: "https://www.youtube.com/watch?v=O0ZE2pHT4fQ"

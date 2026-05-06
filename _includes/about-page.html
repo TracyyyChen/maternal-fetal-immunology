@@ -1,0 +1,43 @@
+<section class="mfi-page-header">
+  <h1 class="mfi-page-title">Built by students, for students.</h1>
+  <p class="mfi-page-lead">
+    This open educational website was created as part of MIT 20.365 / 20.465:
+    Engineering the Immune System in Cancer and Beyond, taught by
+    Prof. Jessica Stark and Prof. Dane Wittrup, Spring 2026.
+  </p>
+</section>
+
+<section class="mfi-about" id="team">
+  <div class="mfi-about__grid">
+    {% for m in site.data.team %}
+    <div class="mfi-about__card">
+      <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
+      <div class="mfi-about__name">{{ m.name }}</div>
+      {% if m.linkedin %}
+      <a href="{{ m.linkedin }}" class="mfi-about__link">LinkedIn ↗</a>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="mfi-contact" id="get-in-touch">
+  <div>
+    <div class="mfi-eyebrow">Get in touch</div>
+    <h2>We'd love to hear from you.</h2>
+    <p>
+      Whether you're a student curious about the field, a researcher interested
+      in collaborating, or just someone who found this site, don't hesitate to
+      reach out. We genuinely enjoy connecting with people who care about
+      maternal-fetal science.
+    </p>
+  </div>
+  <form class="mfi-contact__form"
+        action="https://formspree.io/f/mgodwday"
+        method="POST">
+    <label>Name <input type="text" name="name" required></label>
+    <label>Email <input type="email" name="email" required></label>
+    <label>Message <textarea name="message" rows="5" required></textarea></label>
+    <button type="submit" class="btn btn--primary">Send message</button>
+  </form>
+</section>

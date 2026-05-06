@@ -37,7 +37,7 @@ What makes the decidua truly remarkable is that it is a niche the body construct
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TrophoblastImmuneInteraction.png" | relative_url }}" alt="Interactions between fetal trophoblasts and maternal immune cells at the decidua">
-<p>Reproduced from Liu et al., 2017 [<a href="#ref-liu2017">1</a>]</p>
+<p>teractions between fetal trophoblasts and maternal immune cells at the decidua (Liu et al., 2017) [<a href="#ref-liu2017">1</a>]</p>
 </div>
 
 ---
@@ -56,7 +56,7 @@ What makes this system so scientifically fascinating is that it works at the int
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/Trophoblasts.png" | relative_url }}" alt="Interactions between fetal trophoblasts and maternal immune cells">
-<p>Interactions between fetal trophoblasts and maternal immune cells. Adapted from Liu et al., 2017 [<a href="#ref-liu2017">1</a>]</p>
+<p>Interactions between fetal trophoblasts and maternal immune cells [<a href="#ref-liu2017">1</a>]</p>
 </div>
 
 ---
@@ -65,7 +65,7 @@ What makes this system so scientifically fascinating is that it works at the int
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TrimesterImmunology.png" | relative_url }}" alt="Immune system changes across trimesters">
-<p>Shifts in the maternal immune system across the three trimesters of pregnancy</p>
+<p>Shifts in immune system across the three trimesters of pregnancy</p>
 </div>
 
 One of the most elegant and underappreciated facts about pregnancy is that the maternal immune system doesn't simply adopt a single fixed state and hold it for nine months. Instead, it shifts through three distinct immunological phases timed to match what the pregnancy needs at that moment. This idea was formalized by immunologist **Gil Mor**, who proposed that pregnancy is not a state of immune tolerance but a dynamic, carefully orchestrated sequence of immune states: successful pregnancy requires inflammation, then tolerance, then inflammation again. Each phase, if it fails to occur or occurs at the wrong time, is associated with a specific category of pregnancy complication.

@@ -52,7 +52,7 @@ The most well-characterized trigger is intrauterine infection. When bacteria asc
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TLPTL.png" | relative_url }}" alt="Innate and adaptive immune cells in term vs. preterm labor">
-<p>Schematic of innate and adaptive immune cells at the maternal-fetal interface in term labor (TL) and preterm labor (PTL). From Gomez-Lopez et al., 2014 [<a href="#ref-gomezlopez2014">1</a>]</p>
+<p>Schematic of innate and adaptive immune cells at the maternal-fetal interface in term labor and preterm labor (Gomez-Lopez et al., 2014) [<a href="#ref-gomezlopez2014">1</a>]</p>
 </div>
 
 ---

@@ -47,7 +47,7 @@ Those "wanted posters" are recognized by T cells. Each T cell carries a unique r
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/TBCellsInfections.png" | relative_url }}" alt="T and B cells in infection response">
-<p>How T cells and B cells coordinate the adaptive immune response to infection</p>
+<p>How T cells and B cells contain infection</p>
 </div>
 
 ---
@@ -55,13 +55,13 @@ Those "wanted posters" are recognized by T cells. Each T cell carries a unique r
 ## Learning not to attack yourself
 
 <div class="video-wrap">
-<iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Immune tolerance" frameborder="0" allowfullscreen></iframe>
-<p>Video: Immune tolerance</p>
+<iframe src="https://www.youtube.com/embed/po9t3F5g-vk?start=40" title="Peripheral tolerence" frameborder="0" allowfullscreen></iframe>
+<p>Video: Peripheral T cell tolerence</p>
 </div>
 
 <div class="video-wrap">
-<iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Regulatory T cells" frameborder="0" allowfullscreen></iframe>
-<p>Video: Regulatory T cells (Tregs)</p>
+<iframe src="https://www.youtube.com/embed/2jEBTeAgtFY?start=173" title="Central tolerence" frameborder="0" allowfullscreen></iframe>
+<p>Video: Central T cell tolerence</p>
 </div>
 
 The immune system faces a fundamental design problem: it needs to be aggressive enough to destroy pathogens, but restrained enough not to destroy the body it's protecting. The solution is **tolerance**: a set of mechanisms that teach immune cells to ignore "self" antigens. The first layer happens in the thymus, where T cells are born and educated through a process called **central tolerance**. Immature T cells are exposed to samples of the body's own proteins — if a T cell reacts too strongly, it gets deleted. This **clonal deletion** eliminates roughly 95% of all T cells produced. Only cells that are functional but non-reactive to self survive.
@@ -72,7 +72,7 @@ Tregs are going to be central characters for the rest of this course. They are t
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/Tolerance.png" | relative_url }}" alt="Mechanisms of immune tolerance">
-<p>Central and peripheral mechanisms that maintain immune tolerance to self</p>
+<p>Mechanisms that maintain immune tolerance to self</p>
 </div>
 
 {% include part-nav.html

@@ -22,7 +22,7 @@ In the study of immunology, two model systems have dominated the field: cancer a
 
 <div class="figure-wrap">
 <img src="{{ "/assets/images/PlacentaTumorTransplant.png" | relative_url }}" alt="Similarities between placenta, tumor, and transplant models">
-<p>Similarities between placenta, tumor, and transplant models. From Boulanger et al., 2024</p>
+<p>Similarities between placenta, tumor, and transplant models (Boulanger et al., 2024)</p>
 </div>
 
 ---
@@ -35,7 +35,7 @@ For most of the 20th century, immunologists recognized that tumors expressed abn
 
 <div class="video-wrap">
 <iframe src="https://www.youtube.com/embed/Dm3O1D8EMQk" title="Checkpoint Inhibitors as Cancer Treatment" frameborder="0" allowfullscreen></iframe>
-<p>Video: Checkpoint inhibitors as a cancer treatment (Cancer Research UK)</p>
+<p>Video: Checkpoint inhibitors as a cancer treatment</p>
 </div>
 
 This insight was transformative not just for cancer biology, but for the entire field of immunology. The discovery of checkpoint molecules that tumors hijack — like PD-1, CTLA-4, and others — turned out to be fundamental regulators of immune activation in both health and disease. **Checkpoint blockade immunotherapy**, now approved to treat dozens of cancers and having saved hundreds of thousands of lives, was built entirely on this mechanistic understanding. Cancer gave immunologists a system in which tolerance mechanisms were overactive, manipulatable, and clinically relevant — and the field learned enormously from it.

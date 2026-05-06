@@ -10,4 +10,6 @@ permalink: /
 
 {% include course-grid.html %}
 
+{% include interview-series.html %}
+
 {% include students-cta.html %}

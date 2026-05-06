@@ -1,0 +1,15 @@
+- name: "Sarah Syed"
+  photo: /assets/images/sarah.jpeg
+  linkedin: "https://www.linkedin.com/in/sarahssyed1/"
+
+- name: "Jackie Li"
+  photo: /assets/images/jackie.JPG
+  linkedin: "https://www.linkedin.com/in/jacqueline-li-ab672a1a4/"
+
+- name: "Tracy Chen"
+  photo: /assets/images/tracy.jpg
+  linkedin: "https://www.linkedin.com/in/tracy-leidan-chen/"
+
+- name: "Emma McDougal"
+  photo: /assets/images/emma.jpeg
+  linkedin: "https://www.linkedin.com/in/emma-mcdougal/"

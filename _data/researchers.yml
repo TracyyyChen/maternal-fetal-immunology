@@ -1,0 +1,11 @@
+- id: shanshan-zhang
+  name: "Shanshan Zhang, Ph.D."
+  affiliation: "Postdoctoral Researcher, Huh Lab — Harvard Immunology"
+  topic: "Maternal & fetal immune cell interactions"
+  photo: /assets/images/Shanshan.jpeg
+
+- id: ines-zalosnik
+  name: "Ines Zalosnik, Ph.D."
+  affiliation: "Postdoctoral Researcher, Huh Lab — Harvard Immunology"
+  topic: "Maternal immune activation & fetal neurodevelopment"
+  photo: /assets/images/Ines.jpeg
