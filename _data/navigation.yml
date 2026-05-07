@@ -79,7 +79,7 @@ blog:
       - title: "Ines Zalosnik"
         url: /blog/#ines-zalosnik-full
   - title: "Blog Posts"
-    url: /blog/
+    url: /blog/#acog-reflections
     children:
       - title: "From the Lab to the Clinic: ACOG Reflections"
         url: /blog/#acog-reflections
@@ -95,9 +95,11 @@ about:
 resources:
   - title: "Opportunities"
     url: /resources/#opportunities
+  - title: "Societies & Research Hubs"
+    url: /resources/#societies
   - title: "Papers & Reviews"
-    url: /resources/#papers--reviews
-  - title: "Videos & Extra Learning"
-    url: /resources/#videos--extra-learning
+    url: /resources/#reviews
+  - title: "Videos"
+    url: /resources/#videos
 
 

@@ -6,8 +6,6 @@ permalink: /
 
 {% include hero.html %}
 
-{% include researcher-quote.html %}
-
 {% include course-grid.html %}
 
 {% include interview-series.html %}

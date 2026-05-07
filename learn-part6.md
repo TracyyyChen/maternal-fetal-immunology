@@ -8,9 +8,8 @@ sidebar:
 
 {% include progress-bar.html part=6 title="Frontiers & Why We Need You" %}
 
-<div class="section-nav">
-<a href="#cutting-edge-research-at-the-maternal-fetal-interface">Cutting-edge research</a> · <a href="#open-questions-and-how-to-get-involved">Open questions & get involved</a>
-</div>
+{% include page-section-nav.html %}
+
 
 ## Cutting-edge research at the maternal-fetal interface
 
@@ -24,7 +23,7 @@ The following researchers are working at the frontiers of maternal-fetal immunol
     <h3>Ines Zalosnik, Ph.D.</h3>
     <p class="researcher-affiliation">Postdoc, Huh Lab</p>
     <p class="researcher-topic">Maternal immune activation and fetal neurodevelopment</p>
-    <p class="researcher-status"><a href="{{ '/blog/#ines-zalosnik' | relative_url }}">Read the interview →</a></p>
+    <p class="researcher-status"><a href="{{ '/blog/#ines-zalosnik-full' | relative_url }}">Read the interview →</a></p>
   </div>
 </div>
 
@@ -36,7 +35,7 @@ The following researchers are working at the frontiers of maternal-fetal immunol
     <h3>Shanshan Zhang, Ph.D.</h3>
     <p class="researcher-affiliation">Postdoc, Huh Lab</p>
     <p class="researcher-topic">Interactions between maternal and fetal immune cells</p>
-    <p class="researcher-status"><a href="{{ '/blog/#shanshan-zhang' | relative_url }}">Read the interview →</a></p>
+    <p class="researcher-status"><a href="{{ '/blog/#shanshan-zhang-full' | relative_url }}">Read the interview →</a></p>
   </div>
 </div>
 
@@ -62,15 +61,15 @@ The open questions are extraordinary in their depth and breadth:
 
 - We don't fully understand how Tregs are induced specifically by paternal antigens, or why this process fails in some women.
 - We can't reliably predict preeclampsia in the first trimester, when early intervention would matter most.
-- We don't know why some women with recurrent miscarriage respond to progesterone and others don't — and we lack biomarkers to tell them apart.
+- We don't know why some women with recurrent miscarriage respond to progesterone and others don't, and we lack biomarkers to tell them apart.
 - The immune mechanisms underlying preterm birth are still poorly characterized.
-- We don't understand how the maternal immune system remembers previous pregnancies, or how immune memory to a first partner's antigens shapes the immune response in a subsequent pregnancy with a different partner.
-- We are only beginning to understand how the microbiome — gut, vaginal, and placental — influences the immune tone of pregnancy.
+- We don't understand how the maternal immune system remembers previous pregnancies, or how that immune memory shapes the risk in a subsequent pregnancy with a different partner. (Your adaptive immune system forms lasting memories of antigens it encounters, including paternal antigens from a first pregnancy.)
+- We are only beginning to understand how the microbiome, gut, vaginal, and placental, influences the immune tone of pregnancy.
 - Black women in the United States are three to four times more likely to die from pregnancy-related complications than white women, a disparity with immune, structural, and social roots that researchers are only beginning to disentangle.
 
 Every one of these gaps is an invitation. Every one of them could be the subject of a dissertation, a career, a breakthrough.
 
-Here is what makes this moment particularly exciting: the tools available to researchers have transformed in the last decade. **Single-cell RNA sequencing** can now profile every immune cell at the maternal-fetal interface simultaneously. **CRISPR** allows targeted manipulation of tolerance genes in model systems. **Organoids** enable experiments on placental and decidual tissue that were previously impossible. **Artificial intelligence** is accelerating the identification of biomarkers in large clinical datasets.
+Here is what makes this moment particularly exciting: the tools available to researchers have transformed in the last decade. **[Single-cell RNA sequencing](https://www.youtube.com/watch?v=6UVOdCc1Q7I)** can now profile every immune cell at the maternal-fetal interface simultaneously. **[Spatial transcriptomics](https://www.youtube.com/watch?v=q74euInZqm4)** maps where those cells sit within the tissue, revealing how immune niches are organized in the decidua and placenta at single-cell resolution. **[CRISPR](https://www.youtube.com/watch?v=6tw_JVz_IEc)** allows targeted manipulation of tolerance genes in model systems. **[Organoids](https://www.youtube.com/watch?v=N5Bka-MSwbQ)** enable experiments on placental and decidual tissue that were previously impossible. **Artificial intelligence** is accelerating the identification of biomarkers in large clinical datasets.
 
 If you are a student reading this, you are entering a field at the precise moment when the most powerful scientific tools in history are being turned on a set of problems that have been neglected for decades. The people who will answer Medawar's 1953 question — fully, mechanistically, clinically — are probably in college right now. They might be you.
 
