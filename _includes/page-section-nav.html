@@ -1,11 +1,14 @@
 <nav class="mfi-page-nav">
-  <div class="mfi-page-nav__inner">
-    {% for item in site.data.navigation.learn %}
-      {% if item.children and item.url == page.url %}
-        {% for child in item.children %}
-          <a href="{{ child.url | relative_url }}" class="mfi-page-nav__link">{{ child.title }}</a>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
-  </div>
+  <details class="mfi-page-nav__details">
+    <summary class="mfi-page-nav__toggle">Sections</summary>
+    <div class="mfi-page-nav__inner">
+      {% for item in site.data.navigation.learn %}
+        {% if item.children and item.url == page.url %}
+          {% for child in item.children %}
+            <a href="{{ child.url | relative_url }}" class="mfi-page-nav__link">{{ child.title }}</a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </details>
 </nav>
