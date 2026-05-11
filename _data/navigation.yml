@@ -72,13 +72,13 @@ blog:
   - title: "Interviews"
     url: /blog/
     children:
-      - title: "Ai-Ris Yonekura Collier"
+      - title: "Ai-Ris Yonekura Collier, M.D."
         url: /blog/#ai-ris-collier
-      - title: "Douglas Kwon"
+      - title: "Douglas Kwon, M.D., Ph.D."
         url: /blog/#doug-kwon
-      - title: "Shanshan Zhang"
+      - title: "Shanshan Zhang, Ph.D."
         url: /blog/#shanshan-zhang-full
-      - title: "Ines Zalosnik"
+      - title: "Ines Zalosnik, Ph.D."
         url: /blog/#ines-zalosnik-full
   - title: "Blog Posts"
     url: /blog/#acog-reflections
