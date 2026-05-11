@@ -74,6 +74,8 @@ blog:
     children:
       - title: "Ai-Ris Yonekura Collier"
         url: /blog/#ai-ris-collier
+      - title: "Douglas Kwon"
+        url: /blog/#doug-kwon
       - title: "Shanshan Zhang"
         url: /blog/#shanshan-zhang-full
       - title: "Ines Zalosnik"
